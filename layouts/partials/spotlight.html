@@ -1,0 +1,36 @@
+<!-- Spotlight -->
+<section class="spotlight {{ .style }}"{{ with .id }} id="{{ . }}"{{ end }}>
+    <div class="content">
+        {{ with .title }}<h2>{{ . }}</h2>{{ end }}
+        {{ with .content }}<p>{{ . | safeHTML }}</p>{{ end }}
+        {{ with .button }}<ul class="actions stacked">
+            <li><a href="{{ .link }}" class="button">{{ .label }}</a></li>
+        </ul>{{ end }}
+    </div>
+    {{ with .image }}
+    <div class="image" >
+        <img src="{{ . }}" alt="" />
+    </div>
+    {{ end }}
+    {{ with .video }}
+    <div class="image" style="overflow: hidden;">
+        <div style="pointer-events: none; width:100%; height:100%; overflow:hidden;">
+            <iframe scrolling="no" frameborder="0" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/{{ . }}?playlist={{ . }}&amp;autoplay=1&amp;mute=1&amp;controls=0&amp;disablekb=0&amp;enablejsapi=1&amp;fs=0&amp;iv_load_policy=3&amp;loop=1&amp;modestbranding=1&amp;playsinline=1&amp;rel=0&amp;showinfo=0&amp;theme=dark&amp;widgetid=1&amp;start=6" style="
+            overflow: hidden;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: 100vw;
+            height: 100vh;
+            transform: translate(-50%, -50%);
+            @media (min-aspect-ratio: 16/9) {
+                height: 56.25vw
+            }
+
+            @media (max-aspect-ratio: 16/9) {
+                width: 177.78vh
+            }"></iframe>
+        </div>
+    </div>
+    {{ end }}
+</section>

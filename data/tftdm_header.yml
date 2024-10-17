@@ -1,0 +1,9 @@
+####################### Header #########################
+logo:
+  image: "/images/tftdm/tftdm_logo_simple_dark.png"
+  width: "250px"
+  link: /tales-from-the-dancing-moon/
+use_presskit_link:
+  link: /tales-from-the-dancing-moon/presskit
+  label: Press Kit
+position: fixed

@@ -1,0 +1,18 @@
+<!-- Footer -->
+<header class="header" style="{{ with .position }} position:{{ . }}; {{ end }} width:100%;  z-index: 100; background-color: white;">
+    <div style="display:grid; grid-template-columns: 1fr 3fr; padding:1rem; line-height:1px;" >
+        <div>{{ with .logo }}<a href="{{ .link }}" rel="home_page"><img src="{{.image}}" width="{{ .width }}" /></a>{{ end }}</div>
+        <div style="text-align:right; margin: auto 0;">
+            <ul class="icons" style="margin: auto 0;">
+                {{ with .use_presskit_link }}<li style="line-height: 22px;"><a href="{{ .link }}" class="icon regular style1 fa-newspaper">&nbsp;&nbsp;{{ .label }}<span class="label">{{ .label }}</span></a></li>{{ end}}
+                <li style="line-height: 22px;"><a target="_blank" href="https://discord.gg/kpGVRKPn5W" class="icon brands style1 fa-discord">&nbsp;&nbsp;Discord<span class="label">Discord</span></a></li>
+                <li style="line-height: 22px;"><a target="_blank" href="https://threads.net/dancingmoongame" class="icon brands style1 fa-threads">&nbsp;&nbsp;Threads<span class="label">Threads</span></a></li>
+                <li style="line-height: 22px;"><a target="_blank" href="https://instagram.com/dancingmoongame" class="icon brands style1 fa-instagram">&nbsp;&nbsp;Instagram<span class="label">Instagram</span></a></li>
+                <li style="line-height: 22px;"><a target="_blank" href="https://twitter.com/dancingmoongame" class="icon brands style1 fa-twitter">&nbsp;&nbsp;Twitter<span class="label">Twitter</span></a></li>
+                <li style="line-height: 22px;"><a target="_blank" href="https://github.com/djmonkeyuk/" class="icon brands style1 fa-github">&nbsp;&nbsp;Github<span class="label">Github</span></a></li>
+                <li style="line-height: 22px;"><a target="_blank" href="https://djmonkeyuk.substack.com/" class="icon solid style1 fa-bookmark">&nbsp;&nbsp;Substack<span title="Substack" class="label">Substack</span></a></li>
+            </ul>
+        </div>
+    </div>
+</header>
+

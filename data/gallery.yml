@@ -1,0 +1,78 @@
+title: "Screenshots"
+style: "style1 medium lightbox"
+content: |
+
+pictures:
+  - title: "The Innkeeper"
+    content: "Talking to Fergus to start your journey."
+    image: "/images/gallery/fulls/FergusTalk.png"
+    thumb: "/images/gallery/fulls/FergusTalk.png"
+    button: "View"
+
+  - title: "Chopping a Tree"
+    content: "Exploring and harvesting in the Dewiland Meadows."
+    image: "/images/gallery/fulls/Tree2.png"
+    thumb: "/images/gallery/fulls/Tree2.png"
+    button: "View"
+
+  - title: "Harvesting a Tree"
+    content: "Exploring and harvesting in the Dewiland Meadows."
+    image: "/images/gallery/fulls/Tree3.png"
+    thumb: "/images/gallery/fulls/Tree3.png"
+    button: "View"
+
+  - title: "The Noneye Desert"
+    content: "Mining some ore from The Noneye Desert."
+    image: "/images/gallery/fulls/Desert.png"
+    thumb: "/images/gallery/fulls/Desert.png"
+    button: "View"
+
+  - title: "Winter"
+    content: "A stroll in the winter season."
+    image: "/images/gallery/fulls/Winter2.png"
+    thumb: "/images/gallery/fulls/Winter2.png"
+    button: "View"
+
+  - title: "Shopping"
+    content: "Shopping for supplies at the General Store"
+    image: "/images/gallery/fulls/Shopping.png"
+    thumb: "/images/gallery/fulls/Shopping.png"
+    button: "View"
+
+  - title: "Farming"
+    content: "A look over the seasons harvest"
+    image: "/images/gallery/fulls/Farming.png"
+    thumb: "/images/gallery/fulls/Farming.png"
+    button: "View"
+
+  - title: "Fall"
+    content: ""
+    image: "/images/gallery/fulls/Fall.png"
+    thumb: "/images/gallery/fulls/Fall.png"
+    button: "View"
+
+
+  - title: "Fishing"
+    content: "A look at the fishing mini-game."
+    image: "/images/gallery/fulls/Fishing.png"
+    thumb: "/images/gallery/fulls/Fishing.png"
+    button: "View"
+
+  - title: "Brewing"
+    content: "A look at the brewing mini-game."
+    image: "/images/gallery/fulls/Brewing.png"
+    thumb: "/images/gallery/fulls/Brewing.png"
+    button: "View"
+
+  - title: "Map"
+    content: "A look at the ingame map."
+    image: "/images/gallery/fulls/map.png"
+    thumb: "/images/gallery/fulls/map.png"
+    button: "View"
+
+  - title: "Diaries"
+    content: "A snippet of lore from Andrews diary."
+    image: "/images/gallery/fulls/Diary2.png"
+    thumb: "/images/gallery/fulls/Diary2.png"
+    button: "View"
+

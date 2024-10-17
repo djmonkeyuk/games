@@ -1,0 +1,14 @@
+####################### Banner #########################
+style: "style2 orient-center content-align-center image-position-center fullscreen onload-content-fade-in"
+title : ""
+subtitle: |
+
+content : |
+  <img src="images/tftdm/monkey_artcropped.png" width=75% />
+  <br /><h3>Games and Tools by DjMonkey</h3>
+button:
+  label : "View Games"
+  link : "#first"
+# image : "images/tftdm/banner.png"
+# video : "https://www.youtube.com/watch?v=vuE9RN0UHPA"
+

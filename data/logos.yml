@@ -1,0 +1,17 @@
+title: "Logos"
+style: "style1 medium lightbox"
+content: |
+
+pictures:
+  - title: "DjMonkey Logo"
+    content: ""
+    image: "/images/tftdm/monkey_artcropped.png"
+    thumb: "/images/tftdm/monkey_artcropped.png"
+    button: "View"
+
+  - title: "Tales from The Dancing Moon Logo"
+    content: ""
+    image: "/images/tftdm/tftdm_logo.png"
+    thumb: "/images/tftdm/tftdm_logo.png"
+    button: "View"
+

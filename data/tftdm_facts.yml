@@ -1,0 +1,60 @@
+####################### Columns #########################
+title: Press Kit
+left_content: |
+  <h2>Factsheet</h2>
+  <p>
+  <b>Developer:</b><br />
+  DjMonkey<br />
+  Based in Surrey, UK
+  </p>
+
+  <p>
+  <b>Release Date:</b><br />
+  12 December 2023<br />
+  (Early Access)
+  <p/>
+
+  <p>
+  <b>Platforms:</b><br />
+  <a href="https://store.steampowered.com/app/1782420/Tales_from_The_Dancing_Moon/" target="_blank">Steam PC</a>
+  </p>
+
+  <p>
+  <b>Website:</b><br />
+  <a href="dancingmoongame.wordpress.com" target="_blank">dancingmoongame.wordpress.com</a>
+  </p>
+
+  <p>
+  <b>Regular Price:</b><br />
+  £9.99 (Early Access)
+  </p>
+right_content: |
+  <h2>Description</h2>
+  <p>
+  Tales from the Dancing Moon is a life-sim RPG set in a parallel universe inspired by UK culture and fantasy novels. After the events of a shadow-beast invasion on a seaside town, complete villager quests and collect hidden diaries to understand your role in this mysterious character-driven story.
+  </p>
+
+  <h2>History</h2>
+  <p>
+  The idea of Tales from The Dancing Moon formed back in 2012 after I left University and has been in my head ever since. It’s story is inspired by “portal-story” adventures, such as Narnia or Alice in Wonderland.
+  </p>
+  <p>
+  The details of the story evolved over the course of many years as I worked my day job as a Technical Artist for film visual effects. When the pandemic hit in early 2020 and the UK went into lockdown, I used my time to learn Unreal Engine – which kickstarted my interest in game development.
+  </p>
+  <p>
+  A year and a half into the pandemic (October 2021) I released the demo on Steam, and reached the front page of Reddit with some of my postings. This encouraged me to continue developing and work towards a full version of the game.
+  </p>
+  <p>
+  The plan is to enter Early Access in 2023 – in which the quests for the main story (that has been swimming around in my head all of this time) will finally be playable.
+  </p>
+
+  <h2>Features</h2>
+  <ul>
+  <li>A character driven story inspired by young-adult and portal-fantasy stories. Told via quests and reading diaries scattered across the world.</li>
+  <li>A hybrid of RPG and life-sim with open-ended sandbox features.</li>
+  <li>Questing, farming, crafting, building, fishing, cooking, combat – just to name a few things you can do!</li>
+  <li>Season and weather effects.</li>
+  <li>Free object placement and village building systems.</li>
+  <li>Both hand crafted and procedural areas.</li>
+  <li>Photo mode with many lens and filter options!</li>
+  </ul>

@@ -1,0 +1,14 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+id: "first"
+title : "Tales from The Dancing Moon"
+content: |
+  Tales from the Dancing Moon is a life-sim RPG set in a parallel universe inspired by UK culture and fantasy novels. After the events of a shadow-beast invasion on a seaside town, complete villager quests and collect hidden diaries to understand your role in this mysterious character-driven story.
+  <br />
+  <br />
+  <strong><a target="_blank" href="https://store.steampowered.com/app/1782420/Tales_from_The_Dancing_Moon/">STEAM</a> | <a target="_blank" href="/tales-from-the-dancing-moon">WEBSITE</a></strong>
+# button:
+#   label: "Learn More"
+#   link: "#"
+# image: "images/spotlight01.jpg"
+video: Xes1Yo-vPeM

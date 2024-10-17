@@ -1,0 +1,9 @@
+####################### Header #########################
+logo:
+  image: "/images/tftdm/tftdm_logo_simple_dark.png"
+  width: "250px"
+  link: /tftdm/
+use_presskit_link:
+  link: /tftdm/presskit
+  label: Press Kit
+position: static

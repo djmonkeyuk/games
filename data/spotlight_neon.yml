@@ -1,0 +1,14 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "first"
+title : "Neon Bloom"
+content: |
+  Neon Bloom is a small game prototype about matching brightly coloured tiles on a hexagonal grid. The fantasy version of the game was was brought forward as a mini-game for <a href="#first"><i>Tales from The Dancing Moon</i></a>. You can play the game on Itch.io.
+  <br />
+  <br />
+  <strong><a target="_blank" href="https://djmonkeyuk.itch.io/neon-bloom">Itch.io</a></strong>
+# button:
+#   label: "Learn More"
+#   link: "#"
+# image: "images/spotlight01.jpg"
+video: 8MnCbO4jp7o
