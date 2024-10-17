@@ -8,14 +8,14 @@ theme = "hugo-story"
 ## Publish
 ## -----------------------------------------------
 
-#relativeURLs = "true"
+relativeURLs = "true"
 canonifyURLs = "true"
 
 # Local
 publishDir = "public"
 
 # Remote
-baseURL = "https://djmonkeyuk.github.io/website/"
+baseURL = "https://djmonkeyuk.github.io/website"
 #publishDir = "//centos/sites/hugodev/hugostory/"
 
 
