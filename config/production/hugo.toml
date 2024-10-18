@@ -10,14 +10,14 @@ copyright = "{year}"
 ## -----------------------------------------------
 
 relativeURLs = "true"
-#canonifyURLs = "true"
+canonifyURLs = "true"
 
 # Local
 baseURL = "/"
 publishDir = "public"
 
 # Remote
-#baseURL = "https://djmonkeyuk.github.io/tftdm-site/"
+baseURL = "https://djmonkeyuk.github.io/website/"
 #publishDir = "//centos/sites/hugodev/hugostory/"
 
 ## -----------------------------------------------
