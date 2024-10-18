@@ -4,11 +4,11 @@ title : ""
 subtitle: |
 
 content : |
-  <img src="/images/tftdm/tftdm_logo.png" width=100% />
+  <img src="/website/images/tftdm/tftdm_logo.png" width=100% />
   <p>Tales from the Dancing Moon is a life-sim RPG set in a parallel universe inspired by UK culture and fantasy novels. After the events of a shadow-beast invasion on a seaside town, complete villager quests and collect hidden diaries to understand your role in this mysterious character-driven story.</p>
 button:
   label : "Wishlist/Buy Steam Page"
   link : "https://store.steampowered.com/app/1782420/Tales_from_The_Dancing_Moon/"
-image : "/images/tftdm/banner.png"
+image : "images/tftdm/banner.png"
 # video : "Xes1Yo-vPeM"
 
