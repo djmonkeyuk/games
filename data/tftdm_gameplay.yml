@@ -26,7 +26,7 @@ content : |
   <li>Photo mode with many lens and filter options!</li>
   </ul>
 
-image : "images/gallery/fulls/Fall.png"
+image : "/website/images/gallery/fulls/Fall.png"
 image_attach: fixed
 
 button:
