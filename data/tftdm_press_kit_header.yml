@@ -2,8 +2,8 @@
 logo:
   image: "/images/tftdm/tftdm_logo_simple_dark.png"
   width: "250px"
-  link: /tftdm/
+  link: /tales-from-the-dancing-moon/
 use_presskit_link:
-  link: /tftdm/presskit
+  link: /tales-from-the-dancing-moon-presskit
   label: Press Kit
-position: static
+position: fixed
