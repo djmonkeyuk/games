@@ -1,7 +1,7 @@
 <!-- Spotlight -->
-<section class="wrapper style1 align-center" style="margin: 0 100px; ">
+<section class="wrapper style1 align-center {{ .style }}" >
     {{ with .title }}<h2>{{ . }}</h2>{{ end }}
-    <div style="display:grid; grid-template-columns: 1fr 3fr; column-gap:2rem;">
+    <div style="display:grid; grid-template-columns: 1fr 3fr; column-gap:2rem; margin: 0 100px;">
         <div class="left_content align-left">
             {{ with .left_content }}<p>{{ . | safeHTML }}</p>{{ end }}
         </div>

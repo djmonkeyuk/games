@@ -1,5 +1,5 @@
 <!-- Footer -->
-<header class="header" style="{{ with .position }} position:{{ . }}; {{ end }} width:100%;  z-index: 100; background-color: white;">
+<header class="header {{ .style }}" style="{{ with .position }} position:{{ . }}; {{ end }} width:100%;  z-index: 100; {{ if .use_bg_color }} background-color: white; {{ end }} ">
     <div style="display:grid; grid-template-columns: 1fr 3fr; padding:1rem; line-height:1px;" >
         <div>{{ with .logo }}<a href="{{ .link }}" rel="home_page"><img src="{{.image}}" width="{{ .width }}" /></a>{{ end }}</div>
         <div style="text-align:right; margin: auto 0;">

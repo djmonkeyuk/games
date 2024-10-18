@@ -7,3 +7,4 @@ use_presskit_link:
   link: /tales-from-the-dancing-moon-presskit
   label: Press Kit
 position: fixed
+style: "invert"

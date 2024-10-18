@@ -15,3 +15,4 @@ pictures:
     thumb: "/images/tftdm/tftdm_logo.png"
     button: "View"
 
+title_style: invert
