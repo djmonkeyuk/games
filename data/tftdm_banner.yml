@@ -1,5 +1,5 @@
 ####################### Banner #########################
-style: "style2 orient-center content-align-center image-position-center fullscreen onload-content-fade-in"
+style: "style2 orient-center content-align-center image-position-center fullscreen"
 title : ""
 subtitle: |
 
@@ -9,6 +9,6 @@ content : |
 button:
   label : "Wishlist/Buy Steam Page"
   link : "https://store.steampowered.com/app/1782420/Tales_from_The_Dancing_Moon/"
-image : "/website/images/tftdm/banner.png"
+image : "../images/tftdm/banner.png"
 # video : "Xes1Yo-vPeM"
 

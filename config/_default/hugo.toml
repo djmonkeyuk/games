@@ -12,7 +12,7 @@ relativeURLs = "true"
 canonifyURLs = "true"
 
 # Local
-baseURL = "https://djmonkeyuk.github.io/website/"
+baseURL = "/"
 publishDir = "public"
 
 # Remote
