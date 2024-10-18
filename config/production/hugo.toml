@@ -38,9 +38,10 @@ disableKinds = ["taxonomy", "section"]
 [Params.social]
   github = "https://github.com/djmonkeyuk/"
   twitter = "https://twitter.com/dancingmoongame"
-  email = ""
-  instagram = "https://instagram.com/dancingmoongame"
   threads = "https://threads.net/dancingmoongame"
+  instagram = "https://instagram.com/dancingmoongame"
+  discord = "https://discord.gg/kpGVRKPn5W"
+  substack = "https://djmonkeyuk.substack.com/"
 
 [Params.asset]
   fontawesome_css = ["css/fontawesome-all.min.css"]
