@@ -10,7 +10,7 @@ copyright = "{year}"
 ## -----------------------------------------------
 
 relativeURLs = "true"
-#canonifyURLs = "true"
+canonifyURLs = "true"
 
 # Local
 baseURL = "https://djmonkeyuk.github.io/website/"

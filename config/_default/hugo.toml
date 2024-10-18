@@ -9,14 +9,13 @@ theme = "hugo-story"
 ## -----------------------------------------------
 
 relativeURLs = "true"
-#canonifyURLs = "true"
+canonifyURLs = "true"
 
 # Local
-baseURL = "/"
+baseURL = "https://djmonkeyuk.github.io/website/"
 publishDir = "public"
 
 # Remote
-#baseURL = "https://caressofsteel.github.io/demos/hugo/hugo-story/"
 #publishDir = "//centos/sites/hugodev/hugostory/"
 
 
