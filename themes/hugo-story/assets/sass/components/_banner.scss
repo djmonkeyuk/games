@@ -292,7 +292,7 @@
 		}
 
 		@include orientation(portrait) {
-			@include vendor('flex-direction', 'column-reverse');
+			@include vendor('flex-direction', 'column');
 			text-align: center;
 
 			.content {
@@ -336,7 +336,7 @@
 					@include vendor('flex-direction', 'row-reverse');
 
 					@include orientation(portrait) {
-						@include vendor('flex-direction', 'column-reverse');
+						@include vendor('flex-direction', 'column');
 					}
 				}
 
