@@ -56,6 +56,8 @@
 		}
 	}
 
+
+
 	@mixin color-index($p: null) {
 		.index {
 			> * {
@@ -65,3 +67,35 @@
 	}
 
 	@include color-index;
+
+
+	.columned_layout {
+		@include vendor('align-items', 'stretch');
+		@include vendor('display', 'flex');
+		@include vendor('flex-direction', 'row');
+		@include vendor('justify-content', 'flex-end');
+		position: relative;
+		text-align: left;
+		overflow-x: hidden;
+
+
+
+		@include orientation(portrait) {
+			@include vendor('flex-direction', 'column');
+			text-align: center;
+
+			.content {
+				@include vendor('display', 'flex');
+				@include vendor('flex-direction', 'column');
+				@include vendor('justify-content', 'center');
+				width: 100%;
+				max-width: 100%;
+			}
+
+			.image {
+				width: 100%;
+				max-width: 100%;
+				height: 45vh;
+			}
+		}
+	}
