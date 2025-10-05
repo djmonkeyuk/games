@@ -1,0 +1,37 @@
+/* Custom styles added to demo */
+
+.twitter-tweet {
+    margin: auto;
+}
+
+iframe {
+    border-radius: var(--radius) !important;
+}
+
+.home-info ul {
+    padding-inline-start: 20px;
+}
+
+.entry-cover img {
+    border: 1px solid var(--border);
+}
+
+.main:has(.columns-row) {
+    max-width: calc(var(--nav-width) + var(--gap) * 2);
+}
+
+.main:has(.post-wide) {
+    max-width: calc(var(--nav-width) + var(--gap) * 2);
+}
+
+.columns-row{
+    display: grid;
+    grid-template-columns: 25% 75%;
+    column-gap: 1em;
+}
+
+@media only screen and (max-width: 800px) {
+    .columns-row{
+        display:block;
+    }
+}

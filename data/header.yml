@@ -1,7 +1,0 @@
-####################### Header #########################
-logo:
-  image: "/images/tftdm/monkey_artcropped.png"
-  width: "125px"
-  link: /
-position: fixed
-use_bg_color: true
