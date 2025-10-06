@@ -123,12 +123,6 @@ The most recent version will always be available on our official website or stor
 📧 **talesfromthedancingmoon@gmail.com**  
 📍 Based in the United Kingdom  
 
----
-
-✅ **This Privacy Policy accurately reflects your role as a developer**, clarifying that Epic and Steam handle account data directly while you only receive limited information indirectly through their systems.  
-It fully meets **Epic Games Store** and **Steamworks** requirements and aligns with **GDPR** and **CCPA** standards.
-
-
 
 {{< css.inline >}}
 
