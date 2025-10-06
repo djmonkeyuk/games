@@ -29,9 +29,7 @@ The Game does **not** collect personal information such as your real name, email
 
 However, some information may be collected through third-party services we use to provide online features or technical support.
 
----
-
-## 3. Online Features (Achievements and Leaderboards)  
+### 2.1 Online Features (Achievements and Leaderboards)  
 
 *Tales from The Dancing Moon* includes online features such as achievements and leaderboards.  
 These features are provided and managed directly by **Steam** and **Epic Online Services (EOS)**.  
@@ -42,9 +40,7 @@ Any information related to your account, achievements, or leaderboard scores is 
 
 We do not directly collect or store this information ourselves, though we may view aggregated or anonymized data (for example, general player progress) to help improve the game experience.
 
----
-
-## 4. Optional Save Files for Debugging  
+### 2.2 Optional Save Files for Debugging  
 
 Occasionally, players may choose to send their game save files to us to help diagnose technical issues or bugs.  
 These files may include in-game information such as progress, configuration, or gameplay state.  
@@ -53,7 +49,7 @@ Any save files received are used only for debugging purposes and are deleted onc
 
 ---
 
-## 5. Game Distribution Platforms  
+## 3. Game Distribution Platforms  
 
 The Game is available through trusted third-party platforms, each of which has its own privacy policy governing data collection and processing:
 
@@ -71,7 +67,7 @@ We only access limited, anonymized, or aggregated information they make availabl
 
 ---
 
-## 6. Data Storage and Security  
+## 4. Data Storage and Security  
 
 We do **not** store personal data on our own servers.  
 All account, leaderboard, and achievement data are securely managed by **Steam** and **Epic**.  
@@ -81,7 +77,7 @@ Once the issue has been reviewed or resolved, the file is deleted from our syste
 
 ---
 
-## 7. Children’s Privacy  
+## 5. Children’s Privacy  
 
 The Game is not directed at children under **13 years of age** (or the equivalent minimum age in your jurisdiction).  
 We do not knowingly collect personal data from children.  
@@ -89,7 +85,7 @@ If we become aware that we have inadvertently received such data, we will delete
 
 ---
 
-## 8. Your Rights  
+## 6. Your Rights  
 
 Depending on your region, you may have the right to:
 - Access or request a copy of your data.  
@@ -101,14 +97,14 @@ You can make such requests by contacting: **talesfromthedancingmoon@gmail.com**
 
 ---
 
-## 9. Changes to This Policy  
+## 7. Changes to This Policy  
 
 We may update this Privacy Policy periodically to reflect changes in the Game, services, or applicable laws.  
 The most recent version will always be available on our official website or store pages.
 
 ---
 
-## 10. Contact Information  
+## 8. Contact Information  
 
 **DjMonkey**  
 📧 **talesfromthedancingmoon@gmail.com**  
