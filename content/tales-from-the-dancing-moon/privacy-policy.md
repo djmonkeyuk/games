@@ -15,7 +15,6 @@ layout: wide
 Welcome to *Tales from The Dancing Moon* (“the Game”), developed by **DjMonkey** (“we”, “us”, or “our”).  
 
 This Privacy Policy explains how we collect, use, and protect information when you play the Game.  
-We are committed to respecting your privacy and complying with data protection laws, including the **UK GDPR**, **EU GDPR**, and the **California Consumer Privacy Act (CCPA)**.
 
 If you have any questions, please contact us at:  
 📧 **talesfromthedancingmoon@gmail.com**
