@@ -24,73 +24,72 @@ If you have any questions, please contact us at:
 
 ## 2. Information We Collect  
 
-We collect only limited information necessary to support the Game’s online features (Achievements and Leaderboards) and to provide technical support.  
+We collect only limited information necessary to operate and support the Game.  
+The Game does **not** collect personal information such as your real name, email address, or location directly.  
 
-**Achievements and Leaderboards** are handled directly by **Epic Online Services (EOS)** and **Steam (Valve Corporation)**. These services manage account data, track player progress, and store leaderboard information.  
-
-Through these services, we may **indirectly receive** limited, non-personal information such as:
-- **Account identifiers** (e.g., your Epic Games or Steam username or ID).  
-- **Gameplay statistics and scores** (such as your progress, achievements, and leaderboard position).  
-
-This information allows us to understand how far players typically progress through the Game and identify areas that may need improvement.  
-
-In addition, some players may **voluntarily send** us:
-- **Save files for debugging** – These may include in-game data such as progress, settings, or gameplay state. We do not request or collect personal information through these files. They are deleted once the issue is resolved.
-
-We do **not** collect or store personal details such as your real name, email address, or location directly through the Game.
+However, some information may be collected through third-party services we use to provide online features or technical support.
 
 ---
 
-## 3. How We Use This Information  
+## 3. Online Features (Achievements and Leaderboards)  
 
-We use the information we access solely for legitimate gameplay and support purposes:
-- Displaying achievements and leaderboards (as managed by Epic and Steam).  
-- Understanding player progress and gameplay trends.  
-- Debugging and resolving technical issues (only when you voluntarily send data).  
-- Improving the quality and performance of the Game.  
+*Tales from The Dancing Moon* includes online features such as achievements and leaderboards.  
+These features are provided and managed directly by **Steam** and **Epic Online Services (EOS)**.  
 
-We do **not** sell, rent, or share your data for advertising or marketing purposes.
+Any information related to your account, achievements, or leaderboard scores is processed under the privacy policies of those platforms:  
+- [Steam Privacy Policy](https://store.steampowered.com/privacy_agreement/)  
+- [Epic Games Privacy Policy](https://www.epicgames.com/site/en-US/privacypolicy)  
+
+We do not directly collect or store this information ourselves, though we may view aggregated or anonymized data (for example, general player progress) to help improve the game experience.
 
 ---
 
-## 4. Third-Party Services  
+## 4. Optional Save Files for Debugging  
 
-The Game relies on trusted third-party platforms to manage online functionality and distribution.  
-These services act as independent data controllers for the information they collect directly from you.
+Occasionally, players may choose to send their game save files to us to help diagnose technical issues or bugs.  
+These files may include in-game information such as progress, configuration, or gameplay state.  
+We do **not** request or collect personal information through these files.  
+Any save files received are used only for debugging purposes and are deleted once the issue has been resolved.
 
-- **Epic Online Services (EOS)** – Provides achievements and leaderboards  
-  [https://www.epicgames.com/site/en-US/privacypolicy](https://www.epicgames.com/site/en-US/privacypolicy)
+---
 
-- **Steam (Valve Corporation)** – Provides achievements, leaderboards, and game distribution  
+## 5. Game Distribution Platforms  
+
+The Game is available through trusted third-party platforms, each of which has its own privacy policy governing data collection and processing:
+
+- **Steam (Valve Corporation)** – for achievements, leaderboards, and game distribution  
   [https://store.steampowered.com/privacy_agreement/](https://store.steampowered.com/privacy_agreement/)
 
-- **itch.io** – Provides game distribution  
+- **Epic Games Store / Epic Online Services (EOS)** – for achievements, leaderboards, and game distribution  
+  [https://www.epicgames.com/site/en-US/privacypolicy](https://www.epicgames.com/site/en-US/privacypolicy)
+
+- **itch.io** – for game distribution  
   [https://itch.io/docs/legal/privacy-policy](https://itch.io/docs/legal/privacy-policy)
 
 We do not control how these services collect or process your data.  
-We only access limited, aggregated information from them as part of their platform features.
+We only access limited, anonymized, or aggregated information they make available to developers.
 
 ---
 
-## 5. Data Storage and Security  
+## 6. Data Storage and Security  
 
 We do **not** store personal data on our own servers.  
-All leaderboard, achievement, and account data are securely managed by **Epic Online Services** and **Steam**.  
+All account, leaderboard, and achievement data are securely managed by **Steam** and **Epic**.  
 
-If you voluntarily send us a save file for debugging, it is stored securely and temporarily. Once the issue has been reviewed or resolved, the file is deleted from our systems.
-
-We take reasonable technical and organizational measures to protect all data from unauthorized access, loss, or misuse.
+If you voluntarily send us a save file for debugging, it is stored securely and temporarily.  
+Once the issue has been reviewed or resolved, the file is deleted from our systems.
 
 ---
 
-## 6. Children’s Privacy  
+## 7. Children’s Privacy  
 
 The Game is not directed at children under **13 years of age** (or the equivalent minimum age in your jurisdiction).  
-We do not knowingly collect personal data from children. If we become aware that we have inadvertently received such data, we will delete it promptly.
+We do not knowingly collect personal data from children.  
+If we become aware that we have inadvertently received such data, we will delete it promptly.
 
 ---
 
-## 7. Your Rights  
+## 8. Your Rights  
 
 Depending on your region, you may have the right to:
 - Access or request a copy of your data.  
@@ -99,13 +98,6 @@ Depending on your region, you may have the right to:
 - Lodge a complaint with a data protection authority.  
 
 You can make such requests by contacting: **talesfromthedancingmoon@gmail.com**
-
----
-
-## 8. International Data Transfers  
-
-As a UK-based developer, we process data in accordance with UK and EU data protection laws.  
-Third-party services such as Epic and Steam may transfer data outside the UK or EU in accordance with their own legal frameworks and safeguards.
 
 ---
 
