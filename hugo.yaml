@@ -66,11 +66,11 @@ params:
     imageTitle: It's me!
     buttons:
       - name: "Tales from The Dancing Moon 💃🏻🌙"
-        url: /tales-from-the-dancing-moon
+        url: tales-from-the-dancing-moon
       - name: No Man's Sky Base Building App 🚀
-        url: /nms-bba
+        url: nms-bba
       - name: No Man's Sky Base Builder for Blender 🏗️
-        url: /nms-bbb
+        url: nms-bbb
 
 
   # home-info mode

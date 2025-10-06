@@ -9,7 +9,7 @@ cover:
 
 Tales from the Dancing Moon is a life-sim RPG set in a parallel universe inspired by UK culture and fantasy novels. After the events of a shadow-beast invasion on a seaside town, complete villager quests and collect hidden diaries to understand your role in this mysterious character-driven story.
 
-**[ [STEAM](https://store.steampowered.com/app/1782420/Tales_from_The_Dancing_Moon/) | [PRESS-KIT](/tales-from-the-dancing-moon-press-kit) | [PRIVACY POLICY](/tales-from-the-dancing-moon-privacy-policy) ]**
+**[ [STEAM](https://store.steampowered.com/app/1782420/Tales_from_The_Dancing_Moon/) | [PRESS-KIT](tales-from-the-dancing-moon-press-kit) | [PRIVACY POLICY](tales-from-the-dancing-moon-privacy-policy) ]**
 
 ---
 
