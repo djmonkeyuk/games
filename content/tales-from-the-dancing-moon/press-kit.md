@@ -4,7 +4,6 @@ title: "Tales from The Dancing Moon Press Kit"
 description: ""
 ShowToc: false
 layout: two_columns
-draft: true
 ---
 
 ## Description
