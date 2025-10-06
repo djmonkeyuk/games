@@ -1,6 +1,6 @@
 languageCode: en-us
 title: DjMonkey's Games and Tools
-baseURL: "https://djmonkeyuk.github.io/games/"
+baseURL: "https://djmonkey.uk/"
 theme: ["PaperMod", "hugo-shortcode-gallery"]
 
 
@@ -22,7 +22,7 @@ params:
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
-  defaultTheme: auto # dark, light
+  defaultTheme: dark # dark, light, auto
   disableThemeToggle: false
 
   ShowReadingTime: false
@@ -59,7 +59,9 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: "Hi there, I'm DjMonkey \U0001F44B"
-    subtitle: "I'm a game developer based in West Sussex in the UK. Creator of ***Tales from The Dancing Moon*** and tinkerer of **No Man's Sky** base-building tools."
+    subtitle: |
+      I'm a game developer based in West Sussex in the UK.  
+      Creator of ***Tales from The Dancing Moon*** and ***No Man's Sky*** base-building tools.
     imageUrl: "/images/profile.png"
     imageWidth: 200
     imageHeight: 200
