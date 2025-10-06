@@ -1,6 +1,6 @@
 languageCode: en-us
 title: DjMonkey's Games and Tools
-baseURL: "https://djmonkeyuk.github.io"
+baseURL: "https://djmonkeyuk.github.io/games/"
 theme: ["PaperMod", "hugo-shortcode-gallery"]
 
 
