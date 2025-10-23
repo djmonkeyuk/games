@@ -27,15 +27,15 @@ Tales from the Dancing Moon is a casual RPG set in Ïllisor – a fantasy seasid
 
 <!--more-->
 
-![alt text](/images/SeasonsIllisor.png "Seasons in Illisor")
+![alt text](/images/SeasonsIllisorWide.png "Seasons in Illisor")
 
 From The Dancing Moon Inn to the Stoknel Swamp regions. Explore both hand-crafted and procedural zones with seasonal and weather effects, providing different moods to the game as time progresses.
 
-![alt text](/images/SteamCardUnravel.png "Unravel The Mysteries")
+![alt text](/images/MysteryWide.png "Unravel The Mysteries")
 
 Discover your purpose as you unravel the mystery of the missing teenagers who arrived before you and their entanglement between the tea-brewing Magisters and the deadly shadow-beasts.
 
-![alt text](/images/MeetVillagers.png "Meet The Villagers")
+![alt text](/images/VillagersWide.png "Meet The Villagers")
 
 Learn more about Ïllisor and it’s villagers by partaking in various activities like side-quests, farming, crafting and fishing. You can help rebuild the town from the recent invasion and get them back on their feet!
 
