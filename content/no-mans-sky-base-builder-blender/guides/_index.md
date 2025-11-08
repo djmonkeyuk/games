@@ -12,6 +12,8 @@ layout: guides-bbb
 
 Hello and welcome to the wonderful world of building bases and corvettes for No Man's Sky using Blender!
 
+> If you haven't already, you can download the add-on from the [No Man's Sky Nexus Modding page](https://www.nexusmods.com/nomanssky/mods/984) or [GitHub](https://github.com/djmonkeyuk/nms-base-builder/releases).
+
 Using Blender for base building allows you to use the 3D tool for more precision and freedom with positioning, enabling a different kind of creativity in the game.
 
 **<< Please use the buttons on the left to navigate the help guide.**

@@ -12,6 +12,8 @@ layout: guides-bba
 
 Hello and welcome to the wonderful world of building bases and corvettes in No Man's Sky using a dedicated Base Building application!
 
+> If you haven't already, you can download the app from the [No Man's Sky Nexus Modding page](https://www.nexusmods.com/nomanssky/mods/2598).
+
 This app is designed to be an entry level tool built entirely with No Man's Sky in mind. It's focus on NMS means the learning curve is relatively shallow and has simple 3D tools that allow you to create and edit your bases with more precision and intuitive control.
 
 **<< Please use the buttons on the left to navigate the help guide.**
