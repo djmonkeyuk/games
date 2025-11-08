@@ -1,0 +1,35 @@
+{{- /* Force .Inner evaluation so Hugo allows closing tag */ -}}
+{{- $ignore := .Inner -}}
+
+{{- $tabs := .Scratch.Get "tabs" -}}
+{{- .Scratch.Delete "tabs" -}}
+
+<div x-data="{ tab: 0 }" class="tabs">
+  <!-- Tab List -->
+  <div class="tab-list">
+    {{ range $i, $tab := $tabs }}
+      <button
+        class="tab-button"
+        type="button"
+        :aria-selected="tab === {{ $i }}"
+        :class="{ 'active': tab === {{ $i }} }"
+        @click="tab = {{ $i }}"
+      >
+        {{ index $tab "name" }}
+      </button>
+    {{ end }}
+  </div>
+
+  <!-- Tab Content -->
+  <div class="tab-content">
+    {{ range $i, $tab := $tabs }}
+      <div
+        {{ printf "x-show=\"tab === %d\"" $i | safeHTMLAttr }}
+        x-transition.opacity.duration.200ms
+        x-cloak
+      >
+        {{ index $tab "content" | markdownify }}
+      </div>
+    {{ end }}
+  </div>
+</div>

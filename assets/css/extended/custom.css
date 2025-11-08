@@ -30,8 +30,117 @@ iframe {
     column-gap: 1em;
 }
 
+
+
+
+.tabs {
+  /* margin: 1.5rem 0; */
+  background-color:rgba(255, 255, 255, 0.05);
+  border-radius:15px;
+}
+
+.tab-list {
+  display: flex;
+  border-bottom: 1px solid var(--border);
+  border-top-left-radius: 15px;
+}
+
+.tab-list button {
+  background: none;
+  border: none;
+  padding: 0.6rem 1rem;
+  cursor: pointer;
+  color: var(--secondary);
+  border-bottom: 2px solid transparent;
+  transition: all 0.2s ease;
+}
+
+.tab-list button:first {
+  border-top-left-radius: 15px;
+}
+
+.tab-list button:hover {
+  color: var(--primary);
+  background-color: var(--entry);
+}
+
+.tab-list button.active,
+.tab-list button[aria-selected="true"] {
+  color: var(--primary);
+  border-bottom-color: var(--primary);
+  background-color: var(--entry);
+}
+
+.tab-list button.active:first, .tab-list button[aria-selected="true"]:first {
+  border-top-left-radius: 15px;
+}
+
+.tab-content {
+  margin: 1rem;
+}
+
+/* ❗ Do not define display for tab panels */
+.tab-content > div {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  animation: fadeIn 0.25s ease-in-out;
+}
+
+[x-cloak] { display: none !important; }
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(3px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+:root {
+  --primary: #2563eb;
+  --secondary: #6b7280;
+  --border: #e5e7eb;
+  --entry: #f9fafb;
+}
+[data-theme="dark"] {
+  --primary: #60a5fa;
+  --secondary: #9ca3af;
+  --border: #374151;
+  --entry: #1f2937;
+}
+
+
+/* Guides */
+
+.sidebar a{ 
+    text-decoration: none;
+    box-shadow: none;
+}
+
+.sidebar hr{
+  margin:20px 0;
+}
+
+.sidebar li {
+    display:block
+}
+
+.sidebar-bba{
+    position:fixed;
+}
+
+.sidebar-bba a{
+    color:#008cff;
+}
+
+.sidebar-bba a:hover{
+    color:#92ceff;
+}
+
+
 @media only screen and (max-width: 800px) {
     .columns-row{
         display:block;
+    }
+    
+    .sidebar-bba{
+        position:relative;
     }
 }
