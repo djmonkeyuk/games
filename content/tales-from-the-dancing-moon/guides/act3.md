@@ -1,9 +1,12 @@
 ---
 author: "DjMonkey"
 title: "Act 3 Walkthrough (and Finale)"
-description: "A story-spoiler-free walkthrough of key game actions that take the player through Act 1, which can also be used for the Demo."
+description: "A story-spoiler-free walkthrough of key game actions that take the player through Act 3 and the finale."
 ShowToc: true
 date: 2025-10-08
+ShowToc: false
+ShowPostNavLinks: false
+layout: guides-tftdm
 ---
 
 ![alt text](/images/tftdm/guides/act3_cover.png)
@@ -71,7 +74,7 @@ Successfully doing the above will allow you to take the necklace back from the m
 
 ---
 
-## Final
+## Finale
 
 After finishing Act 3, the only thing left to do is to finish rebuilding the statues in the cave by completing tasks around the village.
 

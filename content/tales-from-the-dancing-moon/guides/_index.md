@@ -2,8 +2,9 @@
 author: "DjMonkey"
 title: "Tales from The Dancing Moon Guides"
 description: ""
-ShowToc: true
-ShowPostNavLinks: true
+ShowToc: false
+ShowPostNavLinks: false
+layout: guides-tftdm
 ---
 
 ***Note***: Tales from The Dancing Moon is a game with an emphasis on quests and figuring things out for yourself.
@@ -16,7 +17,7 @@ The guides below focus on gameplay actions rather than story, to keep them as st
 
 ## Walkthroughs
 
-Click the links below to navigate the walkthroughs.
+Click the links below (or the left side-bar) to navigate the walkthroughs.
 * [Act 1 / Demo Walkthrough](/tales-from-the-dancing-moon/guides/act1/)
 * [Act 2 Walkthrough](/tales-from-the-dancing-moon/guides/act2/)
 * [Act 3 & Finale Walkthrough](/tales-from-the-dancing-moon/guides/act3/)

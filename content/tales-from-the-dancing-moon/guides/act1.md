@@ -4,7 +4,9 @@ title: "Act 1 Walkthrough (Contains Demo)"
 description: "A story-spoiler-free walkthrough of key game actions that take the player through Act 1, which can also be used for the Demo."
 ShowToc: true
 date: 2025-10-10
-ShowPostNavLinks: true
+ShowToc: false
+ShowPostNavLinks: false
+layout: guides-tftdm
 ---
 
 ![alt text](/images/tftdm/guides/act1_cover.png)

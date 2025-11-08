@@ -1,10 +1,12 @@
 ---
 author: "DjMonkey"
 title: "Act 2 Walkthrough"
-description: "A story-spoiler-free walkthrough of key game actions that take the player through Act 1, which can also be used for the Demo."
+description: "A story-spoiler-free walkthrough of key game actions that take the player through Act 2."
 ShowToc: true
 date: 2025-10-09
-ShowPostNavLinks: true
+ShowToc: false
+ShowPostNavLinks: false
+layout: guides-tftdm
 ---
 
 ![alt text](/images/tftdm/guides/act2_cover.png)
