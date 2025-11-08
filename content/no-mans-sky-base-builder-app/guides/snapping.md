@@ -24,6 +24,6 @@ Sometimes, the snap position won't be quite what you're looking for. To solve th
 
 ![alt text](/images/nms-bba/guides/Snapping4.gif)
 
-If you prefer complete freedom of object placement, you can toggle this feature on and off by pressing S, or using the button in the toolbar at the top of the tool.
+If you prefer complete freedom of object placement, you can toggle this feature on and off by using the button in the toolbar at the top of the tool.
 
 ![alt text](/images/nms-bba/guides/Snapping3.png)
