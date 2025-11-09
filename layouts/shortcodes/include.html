@@ -1,0 +1,4 @@
+{{- $file := .Get 0 -}}
+{{- $path := printf "assets/%s" $file -}}
+{{- $content := readFile $path | markdownify -}}
+{{ $content }}
