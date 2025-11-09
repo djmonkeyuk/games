@@ -1,3 +1,7 @@
+The way this tool interacts with No Man's Sky is through your save file by editing the parts that contain your data for bases and corvettes.
+
+There are many options now for tools that interact with your Save file. Here are a few examples of how to extract your base data with these tools.
+
 {{< tabs >}}
   {{< tab name="GoatFungus" >}}
   > Download the latest version of GoatFungus' Save Editor here: https://github.com/goatfungus/NMSSaveEditor

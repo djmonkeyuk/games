@@ -8,10 +8,6 @@ ShowBreadCrumbs: false
 layout: guides-bba
 ---
 
-The way this tool interacts with No Man's Sky is through your save file by editing the parts that contain your data for bases and corvettes.
-
-There are many options now for tools that interact with your Save file. I am using GoatFungus in my example here:
-
 {{< include "includes/saveeditor.md" >}}
 
 Once you've correctly identified your base using any of these tools. You need to select the entire chunk of text that is displayed for that base. You can do this by using the Ctrl+A system hotkey.
