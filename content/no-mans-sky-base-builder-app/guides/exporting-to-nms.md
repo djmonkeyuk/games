@@ -22,6 +22,8 @@ You will be presented with a new set of data that your base represents.
 
 You now need to Copy and Paste this text back into the same location you previously copied this base from. There is a button at the top for your convenience to copy all the text to your clipboard. Alternatively you can use the system hotkeys to Select all and Copy (Ctrl+A, Ctrl+C)
 
+In some cases you may just want to copy the "Objects" data and transfer this data, which can be more reliable for Corvette editing. For this there is also a dedicated button at the top of the panel.
+
 ![alt text](/images/nms-bba/guides/guide_8.png)
 
 After you've successfully pasted your new data into your save file, close the JSON editor and make sure you save the data applied to your save file (you may be prompted to save in your chosen Save Editor tool). 
