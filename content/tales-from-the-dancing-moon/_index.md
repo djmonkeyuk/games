@@ -19,6 +19,8 @@ Tales from the Dancing Moon is a life-sim RPG set in a parallel universe inspire
 
 {{< steam >}}
 
+{{< epic >}}
+
 ---
 
 # Gameplay
