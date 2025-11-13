@@ -1,6 +1,6 @@
 ---
 author: "DjMonkey"
-title: "🚀 Exporting No Man's Sky"
+title: "🚀 Exporting to No Man's Sky"
 date: "2019-06-21"
 description: ""
 ShowToc: false
