@@ -67,11 +67,11 @@ params:
     imageHeight: 200
     imageTitle: It's me!
     buttons:
-      - name: "Tales from The Dancing Moon 💃🏻🌙"
+      - name: "🌙 Tales from The Dancing Moon"
         url: tales-from-the-dancing-moon
-      - name: No Man's Sky Base Building App 🚀
+      - name: 🚀 No Man's Sky Base Building App
         url: no-mans-sky-base-builder-app
-      - name: No Man's Sky Base Builder for Blender 🏗️
+      - name: 🏗️ No Man's Sky Base Builder for Blender
         url: no-mans-sky-base-builder-blender
 
 
