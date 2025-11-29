@@ -7,7 +7,7 @@ ShowToc: false
 ShowBreadCrumbs: false
 ---
 
-Created in 2019, the No Man's Sky Base Building Blender Addon is a add-on extension for Blender 3.0+, introducing a way to create and edit No Man's Sky bases within the 3D application. It allowed players to push their creativity to the limits and is still being used by a community of base builders today.
+Created in 2019, the No Man's Sky Base Building Blender Addon is a add-on extension for Blender 4.2+, introducing a way to create and edit No Man's Sky bases within the 3D application. It allowed players to push their creativity to the limits and is still being used by a community of base builders today.
 
 **[ [NEXUS MODS](https://www.nexusmods.com/nomanssky/mods/984) | [GITHUB](https://github.com/djmonkeyuk/nms-base-builder) | [GUIDES](/no-mans-sky-base-builder-blender/guides/)]**
 
