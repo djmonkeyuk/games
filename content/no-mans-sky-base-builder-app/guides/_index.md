@@ -32,6 +32,8 @@ If you have enjoyed using my tools, consider playing my very own indie game! It 
 
 There is a FREE demo. You would help me a lot by either Wishlisting it, trying it out, or even sharing it with your friends!
 
-Click the widget below to be taken to the Steam page!
+Click the widgets below to be taken to the Store pages!
 
 {{< steam >}}
+
+{{< epic >}}
