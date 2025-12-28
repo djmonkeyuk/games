@@ -28,9 +28,9 @@ In the mean time - thank you so much for downloading the app, I hope you enjoy i
 
 If you have enjoyed using my tools, consider playing my very own indie game! It is the best way you can support me! 
 
-*'Tales from the Dancing Moon' is a life-sim RPG set in a parallel universe inspired by UK culture and fantasy novels. After the events of a shadow-beast invasion on a seaside town, complete villager quests and collect hidden diaries to understand your role in this mysterious character-driven story.*
+*'Tales from The Dancing Moon' is a mystery adventure game set in a world inspired by portal-fantasy novels and UK culture. After the events of a shadow-beast invasion on a seaside town, complete villager quests and find hidden diaries to understand your role in this mysterious character-driven story.*
 
-There is a FREE demo. You would help me a lot by either Wishlisting it, trying it out, or even sharing it with your friends!
+There is a FREE demo. You would help me a lot by either grabbing a copy, Wishlisting it, or even sharing it with your friends!
 
 Click the widgets below to be taken to the Store pages!
 
