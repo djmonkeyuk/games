@@ -67,6 +67,8 @@ params:
     imageHeight: 200
     imageTitle: It's me!
     buttons:
+      - name: "🌆 Neon Circuit"
+        url: neon-circuit
       - name: "🌙 Tales from The Dancing Moon"
         url: tales-from-the-dancing-moon
       - name: 🚀 No Man's Sky Base Building App
