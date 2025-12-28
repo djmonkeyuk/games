@@ -7,7 +7,7 @@ layout: two_columns
 ---
 
 ## Description
-Tales from the Dancing Moon is a life-sim RPG set in a parallel universe inspired by UK culture and fantasy novels. After the events of a shadow-beast invasion on a seaside town, complete villager quests and collect hidden diaries to understand your role in this mysterious character-driven story.
+Tales from the Dancing Moon is a mystery adventure game set in a world inspired by portal-fantasy novels and UK culture. After the events of a shadow-beast invasion on a seaside town, complete villager quests and find hidden diaries to understand your role in this mysterious character-driven story.
 
 ---
 

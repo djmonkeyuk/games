@@ -7,7 +7,7 @@ cover:
   image: "/images/profile.png"
 ---
 
-Tales from the Dancing Moon is a life-sim RPG set in a parallel universe inspired by UK culture and fantasy novels. After the events of a shadow-beast invasion on a seaside town, complete villager quests and collect hidden diaries to understand your role in this mysterious character-driven story.
+Tales from the Dancing Moon is a mystery adventure game set in a world inspired by portal-fantasy novels and UK culture. After the events of a shadow-beast invasion on a seaside town, complete villager quests and find hidden diaries to understand your role in this mysterious character-driven story.
 
 **[ [STEAM](https://store.steampowered.com/app/1782420/Tales_from_The_Dancing_Moon/) | [EPIC GAMES](https://store.epicgames.com/en-US/p/tales-from-the-dancing-moon-8ee7c4) | [ITCH.IO](https://djmonkeyuk.itch.io/tales-from-the-dancing-moon) | [GUIDES](guides) | [PRESS-KIT](press-kit) ]**
 
@@ -23,9 +23,11 @@ Tales from the Dancing Moon is a life-sim RPG set in a parallel universe inspire
 
 ---
 
-# Gameplay
+# About This Game
 
-Tales from the Dancing Moon is a casual RPG set in Ïllisor – a fantasy seaside village recovering from a recent invasion of shadow-beasts. You are a newcomer, unsure of what has happened and why you ended up here.
+Tales from the Dancing Moon is a mystery adventure game inspired by portal-fantasy novels and UK culture, with a mix of casual life-sim and RPG gameplay.
+
+After the events of a shadow-beast invasion on the seaside town of Ïllisor, complete villager quests, live life with sandbox life-sim gameplay, and find collectable diaries to understand your role in this mysterious character-driven story.
 
 <!--more-->
 
