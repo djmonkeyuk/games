@@ -67,8 +67,8 @@ params:
     imageHeight: 200
     imageTitle: It's me!
     buttons:
-      - name: "🌆 Neon Circuit"
-        url: neon-circuit
+      - name: "🌆 Neon Pulse"
+        url: neon-pulse
       - name: "🌙 Tales from The Dancing Moon"
         url: tales-from-the-dancing-moon
       - name: 🚀 No Man's Sky Base Building App
@@ -131,6 +131,10 @@ menu:
     - identifier: tales
       name: Tales from The Dancing Moon
       url: /tales-from-the-dancing-moon
+      weight: 30
+    - identifier: pulse
+      name: Neon Pulse
+      url: /neon-pulse
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
