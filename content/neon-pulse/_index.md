@@ -9,7 +9,7 @@ ShowBreadCrumbs: false
 
 Neon Pulse is a card game about placing building tiles to create a cyberpunk themed city filled with vibrant neon lights and colours. Discover hidden combo scoring techniques that lead to a "Pulse" to reach higher scores - which causes never ending changes to the city! Explore and admire your city during or after a game by using photo mode with many lens and filter options!
 
-**[ [COMING SOON](#) | [PRESS-KIT](press-kit) ]**
+**[ [COMING SOON](#) ]**
 
 ## Key Features
 
