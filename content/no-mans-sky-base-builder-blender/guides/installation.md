@@ -34,8 +34,11 @@ You can then read the *[Importing from No Man's Sky](/no-mans-sky-base-builder-b
 
 ## Launching the Asset Browser
 
-The asset browser is a dedicated window that lices alongside Blender designed to make it easier to view and search the many parts availsablr in No Mans Sky. It is designed to mimic the same building menus and categories in-game.
+The asset browser is a dedicated window that lives alongside Blender designed to make it easier to view and search the many parts available in No Mans Sky. It is designed to mimic the same building menus and categories in-game.
 
-To load the asset browser find the `Launch Asset Browser...` from the side bar tools and click on it. When you click it for the first time it mat take a minute or so to load. This is because there are some Blender and Python dependecies that need to be configured before it can work. This is an automated process and is only done once. Loading the asset browser after the initial load should be fast.
+To load the asset browser, click on the `Launch Asset Browser...` button from the side bar tools. When you click it for the first time it mat take a minute or so to load. This is because there are some Blender and Python files that need to be configured before it can work. This is an automated process and is only done once. Loading the asset browser after the initial load should be fast.
 
-> If you are still running into issues here, you can help debug the problem by selected `Window > Toggle System Console` and try again. The consol will print out any errors. If you find any, please visit the Discord or reach out on social media for me to investigate.
+![alt text](/images/nms-bbb/guides/guide_install5.png)
+
+> If you are still running into issues loading the Asset Browser, you can help debug the problem by selected `Window > Toggle System Console` and try again. The console will print out any errors. If you find any, please visit the Discord or reach out on social media for me to investigate.
+![alt text](/images/nms-bbb/guides/guide_install6.png)
