@@ -9,6 +9,10 @@ There are many options now for tools that interact with your Save file. Here are
   NMSBaseJsonEditor is probably the simplest and fastest way to access, view, and edit base data within your save file to be used with either the Base Building Blender tools or the App.
 
   This is a good option if you are only interested in editing bases or corvettes and not familiar the more advanced save editors like GoatFungus' Save Editor or NomNom. You can view details for those other tools on the other tabs above.
+  
+  To use the tool, launch the application and click `Open file .hg`, then select the No Man's Sky save file you wish to edit.
+  
+  ![alt text](/images/saveeditor/nmsjsoneditor.png)
 
 
   {{< /tab >}}
@@ -53,7 +57,7 @@ Selecting one of these numbers will refresh the right panel, and present to you 
 
    After selecting a base, look out for the small `JS` icon to the right of it's thumbnail. This will load up the JSON editor for your Save and automatically position you where the data for the base is.
 
-   > **WARNING**: For Corvettes, this actually leads the incorrect location for the data you need. Corvette builing data is located in the SAME location as regular Base data. Navigate to `BaseContext => PlayerStateData => PersistentPlayerBases` and find the Corvette in this list you wish to edit. This location is shown in the screenshots below.
+   > **WARNING**: For Corvettes, using the Starship tab will take you to the wrong part of your save file. Corvette building data is located in the SAME location as regular Base data. There is not a convenient way to do this in NomNom, so navigate to `BaseContext => PlayerStateData => PersistentPlayerBases` in the JSON editor and find the Corvette in this list you wish to edit. This location is shown in the screenshots below.
 
    ![alt text](/images/saveeditor/nomnom6.png)
 

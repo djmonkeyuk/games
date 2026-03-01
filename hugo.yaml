@@ -61,7 +61,7 @@ params:
     title: "Hi there, I'm DjMonkey \U0001F44B"
     subtitle: |
       I'm a game developer based in West Sussex in the UK.  
-      Creator of ***Tales from The Dancing Moon*** and ***No Man's Sky*** base-building tools.
+      Creator of ***Neon Pulse***, ***Tales from The Dancing Moon***, and ***No Man's Sky*** base-building tools.
     imageUrl: "/images/profile.png"
     imageWidth: 200
     imageHeight: 200
@@ -81,7 +81,7 @@ params:
   homeInfoParams:
     Title: "Hi there, I'm DjMonkey \U0001F44B"
     Content: |
-      Game developer based in West Sussex in the UK. Developer of ***Tales from The Dancing Moon*** and tinkerer of No Man's Sky base-building tools.
+      Game developer based in West Sussex in the UK. Developer of ***Neon Pulse***, ***Tales from The Dancing Moon***, and tinkerer of No Man's Sky base-building tools.
 
   socialIcons:
     - name: discord
@@ -92,6 +92,8 @@ params:
       url: "https://instagram.com/djmonkeyuk"
     - name: x
       url: "https://x.com/djmonkeyuk"
+    - name: youtube
+      url: "https://youtube.com/@djmonkeydev"
     - name: substack
       url: "https://djmonkeyuk.substack.com/"
     - name: github
