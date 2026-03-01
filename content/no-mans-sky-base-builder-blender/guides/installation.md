@@ -36,7 +36,7 @@ You can then read the *[Importing from No Man's Sky](/no-mans-sky-base-builder-b
 
 The asset browser is a dedicated window that lives alongside Blender designed to make it easier to view and search the many parts available in No Mans Sky. It is designed to mimic the same building menus and categories in-game.
 
-To load the asset browser, click on the `Launch Asset Browser...` button from the side bar tools. When you click it for the first time it mat take a minute or so to load. This is because there are some Blender and Python files that need to be configured before it can work. This is an automated process and is only done once. Loading the asset browser after the initial load should be fast.
+To load the asset browser, click on the `Launch Asset Browser...` button from the side bar tools. When you click it for the first time it may take a minute or so to load. This is because there are some Blender and Python files that need to be configured before it can work. This is an automated process and is only done once. Loading the asset browser after the initial load should be fast.
 
 ![alt text](/images/nms-bbb/guides/guide_install5.png)
 
