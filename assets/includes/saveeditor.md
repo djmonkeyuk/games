@@ -8,10 +8,10 @@ There are many options now for tools that interact with your Save file. Here are
 
   NMSBaseJsonEditor is probably the simplest and fastest way to access, view, and edit base data within your save file to be used with either the Base Building Blender tools or the App.
 
-  This is a good option if you are only interested in editing bases or corvettes and not familiar the more advanced save editors like GoatFungus' Save Editor or NomNom. You can view details for those other tools on the other tabs above.
-  
+  This is a good option if you are only interested in editing bases or corvettes and not familiar with the more advanced save editors like GoatFungus' Save Editor or NomNom. However  if you use these tools you can view instructions for those using the tabs above.
+
   To use the tool, launch the application and click `Open file .hg`, then select the No Man's Sky save file you wish to edit.
-  
+
   ![alt text](/images/saveeditor/nmsjsoneditor.png)
 
 
