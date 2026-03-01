@@ -4,7 +4,6 @@ title: "Act 3 Walkthrough (and Finale)"
 description: "A story-spoiler-free walkthrough of key game actions that take the player through Act 3 and the finale."
 ShowToc: true
 date: 2025-10-08
-ShowToc: false
 ShowPostNavLinks: false
 layout: guides-tftdm
 ---
@@ -40,7 +39,7 @@ The guides below focus on gameplay actions rather than story, to keep them as st
 ---
 
 
-## Walkthrough 
+## Walkthrough
 
 Act 3 has you exploring new areas of the game, such as the ***Town Hall Dungeon, The Underground Passage***, and the procedural ***Stoknel Swamp*** region.
 

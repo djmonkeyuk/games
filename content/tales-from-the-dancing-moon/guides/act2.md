@@ -4,7 +4,6 @@ title: "Act 2 Walkthrough"
 description: "A story-spoiler-free walkthrough of key game actions that take the player through Act 2."
 ShowToc: true
 date: 2025-10-09
-ShowToc: false
 ShowPostNavLinks: false
 layout: guides-tftdm
 ---
