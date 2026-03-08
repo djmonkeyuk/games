@@ -7,24 +7,39 @@ ShowToc: false
 ShowBreadCrumbs: false
 ---
 
-Neon Pulse is a card game about placing building tiles to create a cyberpunk themed city filled with vibrant neon lights and colours. Discover hidden combo scoring techniques that lead to a "Pulse" to reach higher scores - which causes never ending changes to the city! Explore and admire your city during or after a game by using photo mode with many lens and filter options!
+***Neon Pulse*** is a casual, relaxing, card game where you build futuristic cities filled with neon lights and vibrant colours.
 
-**[ [COMING SOON](#) ]**
+Use number logic and colour matching to control the balance of the city, and discover the use of ‘Pulses’ to increase your score.
 
-## Key Features
+Tweak the aesthetic with photo mode filters to admire your city during or after construction!
 
-- A casual card placement game with simple mechanics with an atmospheric futuristic style.
-- Complex combo scoring techniques that are discovered through gameplay.
-- Creative mode provides a relaxing and endless experience.
-- Photo mode, with many lens and filter options to tweak the aesthetic.
+**[ [STEAM - WISHLIST NOW](https://store.steampowered.com/app/4390100/Neon_Pulse/) ]**
 
 ---
 
-![alt](/images/neon-circuit/NeonCircuit1.png)
+![alt](/images/neon-gallery/2a.png)
 
-![alt](/images/neon-circuit/NeonCircuit2.png)
+---
 
-![alt](/images/neon-circuit/NeonCircuit3.png)
+{{< steam_neon >}}
+
+---
+
+## Key Features
+
+- A casual card game with strategic number and colour matching mechanics.
+- A calming, melancholic, and atmospheric futuristic style.
+- Discover hidden combo scoring techniques - named 'Pulses' - through emergent gameplay.
+- Complete objectives to add more cards to your deck to reach even higher scores.
+- Steam Leaderboard Rankings to compare against other players.
+- Photo filter options to tweak the aesthetic.
+
+---
+
+## Screenshots
+
+{{< gallery globalMatch="/images/neon-gallery/*" sortOrder="desc" rowHeight="132" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
+
 
 ---
 
