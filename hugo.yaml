@@ -60,7 +60,7 @@ params:
     enabled: true # needs to be explicitly set
     title: "Hi there, I'm DjMonkey \U0001F44B"
     subtitle: |
-      I'm a game developer based in West Sussex in the UK.  
+      I'm a game developer based in West Sussex in the UK.
       Creator of ***Neon Pulse***, ***Tales from The Dancing Moon***, and ***No Man's Sky*** base-building tools.
     imageUrl: "/images/profile.png"
     imageWidth: 200
@@ -84,6 +84,8 @@ params:
       Game developer based in West Sussex in the UK. Developer of ***Neon Pulse***, ***Tales from The Dancing Moon***, and tinkerer of No Man's Sky base-building tools.
 
   socialIcons:
+    - name: steam
+      url: "https://store.steampowered.com/developer/djmonkey"
     - name: discord
       url: "https://discord.gg/kpGVRKPn5W"
     - name: threads
