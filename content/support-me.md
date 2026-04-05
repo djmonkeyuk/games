@@ -1,6 +1,6 @@
 ---
 author: "DjMonkey"
-title: "Support Me ☕"
+title: "☕ Support Me"
 description: ""
 ShowToc: false
 ---
@@ -27,4 +27,3 @@ Below is a list of games you can show your support for!
 Thank you!
 
 -DjMonkey
-
