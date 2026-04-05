@@ -1,0 +1,29 @@
+name: Update timestamp monthly
+
+on:
+  schedule:
+    - cron: "0 0 1 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-file:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Update timestamp
+        run: |
+          date +"%Y-%m" > content/neon-pulse/leaderboard.txt
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add timestamp.txt
+          git commit -m "Update timestamp" || echo "No changes to commit"
+          git push
