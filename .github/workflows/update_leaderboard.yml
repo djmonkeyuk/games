@@ -18,7 +18,7 @@ jobs:
 
       - name: Update timestamp
         run: |
-          date +"%Y-%m" > content/neon-pulse/leaderboard.txt
+          date +"%Y_%-m" > content/neon-pulse/leaderboard.txt
 
       - name: Commit and push
         run: |
