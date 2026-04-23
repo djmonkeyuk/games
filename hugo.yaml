@@ -52,7 +52,7 @@ params:
 
   label:
     text: "DjMonkey's Games and Tools"
-    icon: /images/profile.png
+    icon: /images/profile.jpg
     iconHeight: 35
 
   # profile-mode
@@ -62,7 +62,7 @@ params:
     subtitle: |
       I'm a game developer based in West Sussex in the UK.
       Creator of ***Neon Pulse***, ***Tales from The Dancing Moon***, and ***No Man's Sky*** base-building tools.
-    imageUrl: "/images/profile.png"
+    imageUrl: "/images/profile.jpg"
     imageWidth: 200
     imageHeight: 200
     imageTitle: It's me!
