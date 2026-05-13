@@ -17,7 +17,7 @@ Tweak the aesthetic with photo mode filters to admire your city during or after 
 
 ---
 
-![alt](/images/neon-gallery/2a.png)
+![alt](/images/neon-gallery/1b.png)
 
 ---
 
@@ -31,14 +31,14 @@ Tweak the aesthetic with photo mode filters to admire your city during or after 
 - A calming, melancholic, and atmospheric futuristic style.
 - Discover hidden combo scoring techniques - named 'Pulses' - through emergent gameplay.
 - Complete objectives to add more cards to your deck to reach even higher scores.
-- Steam Leaderboard Rankings to compare against other players.
+- Monthly Steam Leaderboard Rankings to compare against other players.
 - Photo filter options to tweak the aesthetic.
 
 ---
 
 ## Screenshots
 
-{{< gallery globalMatch="/images/neon-gallery/*" sortOrder="desc" rowHeight="132" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
+{{< gallery globalMatch="/images/neon-gallery/*" sortOrder="asc" rowHeight="132" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
 
 
 ---
