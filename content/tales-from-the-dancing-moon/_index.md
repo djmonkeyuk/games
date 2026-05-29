@@ -9,7 +9,7 @@ cover:
 
 Tales from the Dancing Moon is a mystery adventure game set in a world inspired by portal-fantasy novels and UK culture. After the events of a shadow-beast invasion on a seaside town, complete villager quests and find hidden diaries to understand your role in this mysterious character-driven story.
 
-**[ [STEAM](https://store.steampowered.com/app/1782420/Tales_from_The_Dancing_Moon/) | [EPIC GAMES](https://store.epicgames.com/en-US/p/tales-from-the-dancing-moon-8ee7c4) | [ITCH.IO](https://djmonkeyuk.itch.io/tales-from-the-dancing-moon) | [GUIDES](guides) | [PRESS-KIT](press-kit) ]**
+{{< buttons_tftdm >}}
 
 ---
 

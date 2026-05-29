@@ -13,11 +13,11 @@ Use number logic and colour matching to control the balance of the city, and dis
 
 Tweak the aesthetic with photo mode filters to admire your city during or after construction!
 
-**[ [STEAM - WISHLIST NOW](https://store.steampowered.com/app/4390100/Neon_Pulse/) ]**
+{{< buttons_neon >}}
 
 ---
 
-![alt](/images/neon-gallery/1b.png)
+![Key art for Neon Pulse](/images/neon-gallery/1b.png)
 
 ---
 
