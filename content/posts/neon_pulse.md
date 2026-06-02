@@ -2,10 +2,8 @@
 author: "DjMonkey"
 title: "Introducing Neon Pulse - A new game in development by DjMonkey"
 description: ""
-date: 2026-05-29
-draft: false
-searchHidden: true
-hidden: true
+date: "2026-05-29"
+tags: ["Neon Pulse", "Game"]
 ---
 
 ![Key Art for Neon Pulse](/images/neon_pulse/store_capsule_header.png)

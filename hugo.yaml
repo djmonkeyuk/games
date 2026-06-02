@@ -40,6 +40,7 @@ params:
   hideSummary: false
   showtoc: true
   tocopen: false
+  mainsections: ["posts"]
 
   assets:
     # disableHLJS: true # to disable highlight.js
@@ -132,14 +133,18 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
+    - identifier: news
+      name: News
+      url: /News
+      weight: 10
     - identifier: tales
       name: Tales from The Dancing Moon
       url: /tales-from-the-dancing-moon
-      weight: 30
+      weight: 20
     - identifier: pulse
       name: Neon Pulse
       url: /neon-pulse
-      weight: 30
+      weight: 40
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
