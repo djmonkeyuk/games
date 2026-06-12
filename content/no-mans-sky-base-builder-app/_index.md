@@ -9,7 +9,7 @@ ShowBreadCrumbs: false
 
 Created in 2022, the No Man's Sky Base Building App is a standalone application, introducing a more user friendly way of building bases outside of the game compared to the previous Blender method. It allows the ability to import/export bases to the game, create prefab collections of parts, and free placement of parts.
 
-**[ [NEXUS MODS](https://www.nexusmods.com/nomanssky/mods/2598) | [GUIDES](/no-mans-sky-base-builder-app/guides/)]**
+{{< buttons_bba >}}
 
 > [***holy moly - Sean Murray***](https://x.com/NoMansSky/status/1595396315550285826)
 
