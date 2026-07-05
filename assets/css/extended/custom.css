@@ -75,6 +75,34 @@ iframe {
   border-radius:15px;
 }
 
+.post-content table {
+  width: fit-content;
+  max-width: 100%;
+  border-collapse: collapse;
+  margin: 1.25rem 0;
+  overflow: hidden;
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+}
+
+.post-content th,
+.post-content td {
+  padding: 0.75rem 0.9rem;
+  border: 1px solid var(--border);
+  text-align: left;
+  vertical-align: top;
+}
+
+.post-content th {
+  background: var(--code-bg);
+  color: var(--primary);
+  font-weight: 600;
+}
+
+.post-content tr:nth-child(even) {
+  background-color: rgba(255, 255, 255, 0.03);
+}
+
 .tab-list {
   display: flex;
   border-bottom: 1px solid var(--border);

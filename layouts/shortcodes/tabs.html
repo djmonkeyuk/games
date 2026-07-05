@@ -28,7 +28,7 @@
         x-transition.opacity.duration.200ms
         x-cloak
       >
-        {{ index $tab "content" | markdownify }}
+        {{ index $tab "content" | safeHTML }}
       </div>
     {{ end }}
   </div>

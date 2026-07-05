@@ -3,10 +3,20 @@ The way this tool interacts with No Man's Sky is through your save file by editi
 There are many options now for tools that interact with your Save file. Here are a few guides on how to extract your base data with these tools.
 
 {{< tabs >}}
+  {{< tab name="TAZmd NMS Optimizer" >}}
+  > Download the latest version of the TAZmd NMS Optimizer here: https://www.nexusmods.com/nomanssky/mods/4103
+  
+  TAZmd's Save Editor and Optimizer tool is now one of the best tools used for accessing, viewing, and editing base and corvette data within your save files. It also has some built-in features that optimizes the use case for Corvettes, and supports standard bases too.
+  
+  This handy video contains all the information you need to use the tool which covers both Blender and Base Building App scenarios.
+  
+  {{< youtube 8ro1W1jQc4E >}}
+  
+  {{< /tab >}}
   {{< tab name="NMSBaseJsonEditor" >}}
   > Download the latest version of the NMSBaseJsonEditor here: https://www.nexusmods.com/nomanssky/mods/3849
 
-  NMSBaseJsonEditor is probably the simplest and fastest way to access, view, and edit base data within your save file to be used with either the Base Building Blender tools or the App.
+  NMSBaseJsonEditor is one of the simplest and fastest ways to access, view, and edit base data within your save file to be used with either the Base Building Blender tools or the App.
 
   This is a good option if you are only interested in editing bases or corvettes and not familiar with the more advanced save editors like GoatFungus' Save Editor or NomNom. However  if you use these tools you can view instructions for those using the tabs above.
 

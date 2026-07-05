@@ -8,18 +8,29 @@ ShowBreadCrumbs: false
 layout: guides-bba
 ---
 
+## Release Trailer
+#### From DjMonkey
 {{< youtube HkwnxhF1Elg >}}
 
-***from @djmonkeyuk (me)***
-
 ---
 
-{{< youtube OycWjaeY_IM >}}
+## TAZmd NMS Corvette Optimizer - No Man's Sky Save Editor
+#### From TAZmd
 
-***from @BJGamingPS5***
+One of the best processes of getting Base/Corvette data in and our of the game.
 
+{{< youtube 8ro1W1jQc4E >}}
+  
 ---
+
+## How to make the BEST corvettes in NoMan's Sky!
+#### From AyunsWorkShop
 
 {{< youtube m3NaV4LC3tg >}}
 
-***from @AyunsWorkShop***
+---
+
+## How To Use The No Man's Sky Base Blender Stand Alone App Guide
+#### From BoidGaming
+
+{{< youtube OycWjaeY_IM >}}
