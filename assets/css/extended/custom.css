@@ -1,5 +1,18 @@
 /* Custom styles added to demo */
 
+/* table {
+  border-collapse: unset;
+  border-spacing: 24px 0;
+}
+th {
+  text-align: left;
+}
+
+tr {
+  border-bottom: 1px solid #FFF;
+  border-color: #FFF;
+} */
+
 .post-content h2 {
     margin: 32px auto 24px;
     font-size: 32px;
