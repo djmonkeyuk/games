@@ -46,11 +46,15 @@ tr {
   margin: 20px 0;
 }
 
-.post-content > p > a:not(.anchor),
-.post-content > div > a:not(.anchor),
-.post-content > ul > li > a:not(.anchor),
-.post-content > ol > li > a:not(.anchor),
-.post-content > blockquote > a:not(.anchor) {
+.post-content > p a:not(.anchor),
+.post-content > div a:not(.anchor),
+.post-content > ul li a:not(.anchor),
+.post-content > ol li a:not(.anchor),
+.post-content > blockquote a:not(.anchor),
+.post-content strong a:not(.anchor),
+.post-content em a:not(.anchor),
+.post-content b a:not(.anchor),
+.post-content i a:not(.anchor) {
   color: var(--primary);
   text-decoration: underline;
   text-underline-offset: 0.3rem;
@@ -200,37 +204,42 @@ iframe {
 
 /* Guides */
 
-.sidebar a{ 
+.post-content .sidebar a {
     text-decoration: none;
     box-shadow: none;
 }
 
-.sidebar hr{
-  margin:20px 0;
+.post-content .sidebar hr {
+  margin: 20px 0;
 }
 
-.sidebar li {
-    display:block
+.post-content .sidebar li {
+    display: block;
 }
 
-.sidebar{
-    position:fixed;
+.post-content .sidebar {
+    position: fixed;
 }
 
-.sidebar-bba a{
-    color:#008cff;
+.post-content .sidebar-bba a,
+.post-content .sidebar-bba a:visited,
+.post-content .sidebar-bba a:hover,
+.post-content .sidebar-bba a:focus {
+    color: #008cff !important;
+    text-decoration: none !important;
 }
 
-.sidebar-bba a:hover{
-    color:#92ceff;
+.post-content .sidebar-tftdm a,
+.post-content .sidebar-tftdm a:visited,
+.post-content .sidebar-tftdm a:hover,
+.post-content .sidebar-tftdm a:focus {
+    color: orange !important;
+    text-decoration: none !important;
 }
 
-.sidebar-tftdm a{
-    color:orange;
-}
-
-.sidebar-tftdm a:hover{
-    color:rgb(255, 210, 128);
+.post-content .sidebar-tftdm a:hover,
+.post-content .sidebar-bba a:hover {
+    opacity: 0.9;
 }
 
 
