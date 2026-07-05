@@ -85,6 +85,8 @@ params:
       Game developer based in West Sussex in the UK. Developer of ***Neon Pulse***, ***Tales from The Dancing Moon***, and tinkerer of No Man's Sky base-building tools.
 
   socialIcons:
+    - name: patreon
+      url: "https://www.patreon.com/cw/DjMonkeyUK"
     - name: steam
       url: "https://store.steampowered.com/developer/djmonkey"
     - name: discord
@@ -97,8 +99,8 @@ params:
       url: "https://x.com/djmonkeyuk"
     - name: youtube
       url: "https://youtube.com/@djmonkeydev"
-    - name: substack
-      url: "https://djmonkeyuk.substack.com/"
+    # - name: substack
+    #   url: "https://djmonkeyuk.substack.com/"
     - name: github
       url: "https://github.com/djmonkeyuk"
 
