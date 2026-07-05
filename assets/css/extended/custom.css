@@ -361,9 +361,12 @@ iframe {
     .columns-row{
         display:block;
     }
-    
-    .sidebar{
-        position:relative;
+
+    .post-content .sidebar {
+        position: relative;
+        width: 100%;
+        max-width: 100%;
+        margin-top: 1.5rem;
     }
     
     .EpicWidget button {
