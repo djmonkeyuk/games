@@ -46,6 +46,16 @@ tr {
   margin: 20px 0;
 }
 
+.post-content > p > a:not(.anchor),
+.post-content > div > a:not(.anchor),
+.post-content > ul > li > a:not(.anchor),
+.post-content > ol > li > a:not(.anchor),
+.post-content > blockquote > a:not(.anchor) {
+  color: var(--primary);
+  text-decoration: underline;
+  text-underline-offset: 0.3rem;
+}
+
 .twitter-tweet {
     margin: auto;
 }
@@ -107,6 +117,13 @@ iframe {
   background: var(--code-bg);
   color: var(--primary);
   font-weight: 600;
+}
+
+.post-content td a,
+.post-content th a {
+  color: var(--primary);
+  text-decoration: underline;
+  text-underline-offset: 0.3rem;
 }
 
 .post-content tr:nth-child(even) {

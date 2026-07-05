@@ -27,7 +27,7 @@ The guides below focus on gameplay actions rather than story, to keep them as st
 |                             | Self-Made Chef                | Social Anxiety                 |
 |                             | Settling a Bet                | A Lost and Lucky Knife         |
 |                             | Trimming the Threat           | Copper Ore                     |
-|                             | Live Off the Fat of the Land  | Lake Fish                      |
+|                             | Live Off the Fat of the Land  | [Lake Fish](../lake-fishing)  |
 |                             | Fishing with Astryn           | The Missing Necklace           |
 |                             | Preparing for Camp            | Set The Stage                  |
 |                             | Sleepy Time                   | Supply Problems in the Meadows |
@@ -35,7 +35,6 @@ The guides below focus on gameplay actions rather than story, to keep them as st
 |                             |                               | Blob-Bombs and Shadow-Blasters |
 |                             |                               | The Topaz Trap                 |
 
----
 
 ## Walkthrough
 
@@ -44,6 +43,8 @@ After waking up on a nearby island, you are taken to ***The Dancing Moon Inn*** 
 Whilst exploring the village and the surrounding areas, you will encounter a main quests - ***A Blocked Cave***. Unblocking the cave and completing this quest is the focus of Act 1.
 
 Going through the tutorial quests and side-quests in act 1 will eventually reveal to you a crafting recipe that can construct 2 types of bomb. A ***Blob-Bomb***, and a ***Shadow-Blaster Bomb***. The ***Blob-Bomb*** on its own is not enough to do environmental damage, so you will need to enhance it by creating the ***Shadow-Blaster Bomb***.
+
+For anyone stuck finding particular fish in the Illisor Steppes Lake, you can see this [guide here](../lake-fishing).
 
 The list below can help you locate resources to craft these particular bombs:
 * ***Copper Ingot*** - By mining copper ore from the Dewiland Meadows and crafted using a forge.
