@@ -221,6 +221,10 @@ iframe {
     overflow-wrap:anywhere;
 }
 
+.post-content .sidebar li{
+  display: block;
+}
+
 .post-content .sidebar {
     position: fixed;
 }
