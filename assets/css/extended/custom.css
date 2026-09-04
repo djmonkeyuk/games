@@ -88,6 +88,7 @@ iframe {
     display: grid;
     grid-template-columns: 25% 75%;
     column-gap: 1em;
+  container-type: inline-size;
 }
 
 
@@ -213,8 +214,11 @@ iframe {
   margin: 20px 0;
 }
 
-.post-content .sidebar li {
-    display: block;
+.post-content .sidebar{
+    position:fixed;
+    width:25cqw;
+    box-sizing:border-box;
+    overflow-wrap:anywhere;
 }
 
 .post-content .sidebar {
