@@ -52,7 +52,7 @@ params:
     safari_pinned_tab: "apple-touch-icon.png"
 
   label:
-    text: "DjMonkey's Games and Tools"
+    text: "DjMonkey Publishing"
     icon: /images/profile2.png
     iconHeight: 35
 
@@ -61,8 +61,8 @@ params:
     enabled: true # needs to be explicitly set
     title: "Hi there, I'm DjMonkey \U0001F44B"
     subtitle: |
-      I'm a game developer based in West Sussex in the UK.
-      Creator of ***Neon Pulse***, ***Tales from The Dancing Moon***, and ***No Man's Sky*** base-building tools.
+      I'm a british game developer and tools programmer based in West Sussex.<br/>
+      Creator of ***Neon Pulse***, ***Tales from The Dancing Moon***,<br /> and the ***No Man's Sky*** base-building modding tools.
     imageUrl: "/images/profile2.png"
     imageWidth: 200
     imageHeight: 200
