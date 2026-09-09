@@ -13,7 +13,7 @@ Tales from the Dancing Moon is a mystery adventure game set in a world inspired 
 
 ---
 
-{{< youtube IwYZPcg4V7c >}}
+{{< youtube 1-0FElCBLhw >}}
 
 {{< youtube SWwL7Lj52zo >}}
 
