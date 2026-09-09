@@ -35,7 +35,7 @@ The game released into Early Access in 2023, and then later fully released in Ju
 
 ## Videos
 
-{{< youtube IwYZPcg4V7c >}}
+{{< youtube 1-0FElCBLhw >}}
 
 {{< youtube SWwL7Lj52zo >}}
 
