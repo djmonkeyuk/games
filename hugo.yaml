@@ -68,14 +68,18 @@ params:
     imageHeight: 200
     imageTitle: It's me!
     buttons:
-      - name: "🌆 Neon Pulse"
+      - name: "Neon Pulse"
         url: neon-pulse
-      - name: "🌙 Tales from The Dancing Moon"
+        poster: /images/posters/neon-pulse.png
+      - name: "Tales from The Dancing Moon"
         url: tales-from-the-dancing-moon
-      - name: 🚀 No Man's Sky - Base Building App
+        poster: /images/posters/tales-from-the-dancing-moon.png
+      - name: "No Man's Sky - Base Building App"
         url: no-mans-sky-base-builder-app
-      - name: 🏗️ No Man's Sky - Base Blender Extension
+        poster: /images/posters/no-mans-sky-base-builder-app.png
+      - name: "No Man's Sky - Base Blender Extension"
         url: no-mans-sky-base-builder-blender
+        poster: /images/posters/no-mans-sky-base-builder-blender.png
 
 
   # home-info mode
