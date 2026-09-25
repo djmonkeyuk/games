@@ -67,6 +67,7 @@ params:
     imageWidth: 200
     imageHeight: 200
     imageTitle: It's me!
+    buttonsHeading: "Current Projects"
     buttons:
       - name: "Neon Pulse"
         url: neon-pulse

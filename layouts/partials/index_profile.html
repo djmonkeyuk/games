@@ -35,6 +35,9 @@
         {{- partial "social_icons.html" -}}
 
         {{- with .buttons }}
+        {{- with site.Params.profileMode.buttonsHeading }}
+        <h2 class="poster-section__heading poster-section__heading--first">{{ . | markdownify }}</h2>
+        {{- end }}
         {{- partial "poster_grid.html" . }}
         {{- end }}
 
