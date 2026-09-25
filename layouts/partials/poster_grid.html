@@ -1,0 +1,23 @@
+<div class="poster-grid">
+    {{- range $i, $btn := . }}
+    {{- $poster := "" }}
+    {{- if $btn.poster }}
+        {{- $poster = resources.Get $btn.poster }}
+        {{- if $poster }}
+            {{- $poster = $poster.Resize "480x q80" }}
+        {{- end }}
+    {{- end }}
+    {{- $class := printf "poster-card%s" (cond (not $poster) " poster-card--fallback" "") }}
+    {{- $inner := partial "poster_card_inner.html" (dict "btn" $btn "poster" $poster) }}
+    {{- if $btn.url }}
+    <a class="{{ $class }}" style="--poster-index:{{ mod $i 6 }}"
+        href="{{ trim $btn.url " " }}" rel="noopener" title="{{ $btn.name }}">
+        {{- $inner }}
+    </a>
+    {{- else }}
+    <div class="{{ $class }}" style="--poster-index:{{ mod $i 6 }}" title="{{ $btn.name }}">
+        {{- $inner }}
+    </div>
+    {{- end }}
+    {{- end }}
+</div>

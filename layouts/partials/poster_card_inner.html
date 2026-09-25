@@ -1,0 +1,19 @@
+{{- $btn := .btn }}
+{{- $poster := .poster }}
+<span class="poster-card__media">
+    {{- if $poster }}
+    <img class="poster-card__image" src="{{ $poster.Permalink }}" alt="{{ $btn.name }}" loading="lazy" draggable="false" />
+    {{- end }}
+    <span class="poster-card__shine" aria-hidden="true"></span>
+    {{- if and $btn.url (findRE "://" $btn.url) }}
+    <span class="poster-card__external" aria-hidden="true">
+        <svg fill="none" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round"
+            stroke-linejoin="round" stroke-width="2.5" viewBox="0 0 24 24" height="12" width="12">
+            <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"></path>
+            <path d="M15 3h6v6"></path>
+            <path d="M10 14L21 3"></path>
+        </svg>
+    </span>
+    {{- end }}
+</span>
+<span class="poster-card__title">{{ $btn.name }}</span>

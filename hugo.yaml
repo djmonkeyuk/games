@@ -80,6 +80,24 @@ params:
       - name: "No Man's Sky - Base Blender Extension"
         url: no-mans-sky-base-builder-blender
         poster: /images/posters/no-mans-sky-base-builder-blender.png
+    filmsHeading: "DjMonkey's work has also contributed to the film industry in the following works."
+    films:
+      - name: "Maleficent"
+        poster: /images/posters/films/maleficent.jpg
+      - name: "Cinderella"
+        poster: /images/posters/films/cinderella.jpg
+      - name: "X-Men: Days of Future Past"
+        poster: /images/posters/films/x-men-days-of-future-past.jpg
+      - name: "A Cure for Wellness"
+        poster: /images/posters/films/a-cure-for-wellness.jpg
+      - name: "Captain America: Civil War"
+        poster: /images/posters/films/captain-america-civil-war.jpg
+      - name: "Ron's Gone Wrong"
+        poster: /images/posters/films/rons-gone-wrong.jpg
+      - name: "Monster Trucks"
+        poster: /images/posters/films/monster-trucks.jpg
+      - name: "Pacific Rim: Uprising"
+        poster: /images/posters/films/pacific-rim-uprising.jpg
 
 
   # home-info mode

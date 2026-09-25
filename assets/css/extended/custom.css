@@ -477,6 +477,16 @@ iframe {
   color: #fff;
 }
 
+.poster-section__heading {
+  max-width: 720px;
+  margin: 3rem 0 1rem;
+  font-size: 1.15rem;
+  font-weight: 600;
+  line-height: 1.4;
+  text-align: center;
+  color: var(--secondary);
+}
+
 @media only screen and (max-width: 480px) {
   .poster-grid {
     max-width: 320px;
