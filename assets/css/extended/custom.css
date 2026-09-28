@@ -365,6 +365,24 @@ iframe {
   text-align: left;
 }
 
+/* "Join the Discord" button in the project page button rows */
+.button.button--discord {
+  background: #5865f2;
+  color: #fff;
+  transition: background 0.2s ease;
+}
+
+.button.button--discord:hover,
+.button.button--discord:focus-visible {
+  background: #4752c4;
+}
+
+.button.button--discord svg {
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+}
+
 /* "Join my Discord" speech bubble next to the profile image */
 .profile-avatar {
   position: relative;

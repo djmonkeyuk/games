@@ -1,0 +1,7 @@
+{{- range where site.Params.socialIcons "name" "discord" }}
+<a class="button button--discord" href="{{ trim .url " " | safeURL }}" target="_blank" rel="noopener noreferrer"
+    style="display:inline-flex; align-items:center; gap:0.5rem; width:fit-content; text-decoration:none;">
+    {{- partial "svg.html" . }}
+    <span>Join the Discord</span>
+</a>
+{{- end }}
