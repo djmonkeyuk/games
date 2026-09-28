@@ -2,6 +2,7 @@
     {{- with site.Params.profileMode }}
     <div class="profile_inner">
         {{- if .imageUrl -}}
+        <div class="profile-avatar">
         {{- $img := "" }}
         {{- if not (urls.Parse .imageUrl).IsAbs }}
             {{- $img = resources.Get .imageUrl }}
@@ -29,6 +30,16 @@
         <img draggable="false" src="{{ .imageUrl | absURL }}" alt="{{ .imageTitle | default "profile image" }}" title="{{ .imageTitle }}"
             height="{{ .imageHeight | default 150 }}" width="{{ .imageWidth | default 150 }}" />
         {{- end }}
+        {{- with .discordBubble }}
+        {{- $text := . }}
+        {{- range where site.Params.socialIcons "name" "discord" }}
+        <a class="discord-bubble" href="{{ trim .url " " | safeURL }}" target="_blank" rel="noopener noreferrer">
+            {{- partial "svg.html" . }}
+            <span>{{ $text }}</span>
+        </a>
+        {{- end }}
+        {{- end }}
+        </div>
         {{- end }}
         <h1>{{ .title | default site.Title | markdownify }}</h1>
         <span>{{ .subtitle | markdownify }}</span>

@@ -67,6 +67,7 @@ params:
     imageWidth: 200
     imageHeight: 200
     imageTitle: It's me!
+    discordBubble: "Join my Discord!"
     buttonsHeading: "Current Projects"
     buttons:
       - name: "Neon Pulse"

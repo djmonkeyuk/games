@@ -365,6 +365,85 @@ iframe {
   text-align: left;
 }
 
+/* "Join my Discord" speech bubble next to the profile image */
+.profile-avatar {
+  position: relative;
+  display: inline-block;
+}
+
+.discord-bubble {
+  position: absolute;
+  top: 6px;
+  left: calc(100% - 8px);
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.6rem 1rem;
+  border-radius: 18px;
+  background: #5865f2;
+  color: #fff;
+  font-size: 0.95rem;
+  font-weight: 700;
+  white-space: nowrap;
+  text-decoration: none;
+  box-shadow: 0 8px 20px rgba(88, 101, 242, 0.35);
+  transform-origin: bottom left;
+  animation: discord-bubble-bob 3s ease-in-out infinite;
+  transition: background 0.2s ease;
+}
+
+/* tail pointing back towards the profile image */
+.discord-bubble::before {
+  content: "";
+  position: absolute;
+  left: 10px;
+  bottom: -9px;
+  width: 18px;
+  height: 18px;
+  background: inherit;
+  border-bottom-left-radius: 4px;
+  clip-path: polygon(0 100%, 0 0, 100% 0);
+}
+
+.discord-bubble:hover,
+.discord-bubble:focus-visible {
+  background: #4752c4;
+  animation-play-state: paused;
+}
+
+.discord-bubble svg {
+  width: 20px;
+  height: 20px;
+  flex-shrink: 0;
+}
+
+@keyframes discord-bubble-bob {
+  0%, 100% { transform: translateY(0) rotate(-2deg); }
+  50% { transform: translateY(-5px) rotate(-2deg); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .discord-bubble {
+    animation: none;
+    transform: rotate(-2deg);
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  .discord-bubble {
+    top: -10px;
+    left: auto;
+    right: -70px;
+    padding: 0.45rem 0.75rem;
+    font-size: 0.8rem;
+  }
+
+  .discord-bubble svg {
+    width: 16px;
+    height: 16px;
+  }
+}
+
 /* Poster-style project buttons (profile mode) */
 .poster-grid {
   display: grid;
