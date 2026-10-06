@@ -214,19 +214,24 @@ iframe {
   margin: 20px 0;
 }
 
+/* the sidebar's wrapper sticks within the full-height grid column, scrolling
+   up with the page until it reaches the top, then scrolling internally if
+   the window is too short to show it all (max-height is set by the script
+   in extend_footer.html, as it depends on how far down the sidebar sits) */
+.post-content:has(> .sidebar) {
+    position: sticky;
+    top: 1rem;
+    overflow-y: auto;
+    scrollbar-width: thin;
+}
+
 .post-content .sidebar{
-    position:fixed;
-    width:25cqw;
     box-sizing:border-box;
     overflow-wrap:anywhere;
 }
 
 .post-content .sidebar li{
   display: block;
-}
-
-.post-content .sidebar {
-    position: fixed;
 }
 
 .post-content .sidebar-bba a,
@@ -605,8 +610,12 @@ iframe {
         display:block;
     }
 
+    .post-content:has(> .sidebar) {
+        position: static;
+        overflow-y: visible;
+    }
+
     .post-content .sidebar {
-        position: relative;
         width: 100%;
         max-width: 100%;
         margin-top: 1.5rem;

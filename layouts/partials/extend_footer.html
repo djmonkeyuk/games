@@ -1,0 +1,29 @@
+{{- /* Guide sidebars: cap the sticky sidebar's height to the visible space below
+   it, so it scrolls internally instead of running off the bottom of the window
+   before the page has been scrolled far enough for it to stick. */}}
+<script>
+(function () {
+    var el = document.querySelector('.post-content:has(> .sidebar)');
+    if (!el) return;
+    var gap = 16;
+    var pending = false;
+    function fit() {
+        pending = false;
+        if (getComputedStyle(el).position !== 'sticky') {
+            el.style.maxHeight = '';
+            return;
+        }
+        var top = Math.max(el.getBoundingClientRect().top, gap);
+        el.style.maxHeight = (window.innerHeight - top - gap) + 'px';
+    }
+    function schedule() {
+        if (!pending) {
+            pending = true;
+            requestAnimationFrame(fit);
+        }
+    }
+    window.addEventListener('scroll', schedule, { passive: true });
+    window.addEventListener('resize', schedule);
+    fit();
+})();
+</script>
