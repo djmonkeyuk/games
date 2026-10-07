@@ -26,7 +26,7 @@ PCBANKS: This is the path to your No Man's Sky installation folder. Look for the
 
 Cache Path: This is where the compressed assets will live, ready to be processed and loaded. You need to make sure you specify a folder that has a lot of free disk space (we are talking gigabytes).
 
-The nature of PartSync stores a bunch of intermediate files. To free up disk space you can press the `Clear Cache` button to remove these files. This is safe to do, and does not effect the performance of already loaded parts. When running Part Sync again on unloaded parts, you will see this space fill up.
+The nature of PartSync stores a bunch of intermediate files. To free up disk space you can press the `Show in Explorer` button to navigate to your cache directory, where you can safely delete the "temp" folder. This does not effect the performance of already loaded parts. When running Part Sync again on unloaded parts, you will see this temp space fill up again.
 
 When configured correctly, you can now toggle the High option on the display settings, which will trigger Part Sync. A status bubble will appear on the top right, showing that it's working. Pressing **Shift+T** will let you toggle between Proxy and High visibility modes.
 
