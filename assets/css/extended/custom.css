@@ -463,6 +463,18 @@ iframe {
   animation-delay: -1.5s;
 }
 
+/* level with the image, so the tail points straight back at it */
+.patreon-bubble::before {
+  left: -10px;
+  top: 50%;
+  bottom: auto;
+  width: 14px;
+  height: 16px;
+  border-radius: 0;
+  transform: translateY(-50%);
+  clip-path: polygon(0 50%, 100% 0, 100% 100%);
+}
+
 .patreon-bubble:hover,
 .patreon-bubble:focus-visible {
   background: #e63640;
@@ -480,7 +492,7 @@ iframe {
   }
 }
 
-/* not enough room beside the image on small screens: sit above it instead */
+/* not enough room beside the image on small screens: sit below it instead */
 @media only screen and (max-width: 640px) {
   .profile-avatar {
     display: flex;
@@ -490,16 +502,36 @@ iframe {
 
   .profile-bubbles {
     position: static;
-    order: -1;
     flex-direction: row;
-    flex-wrap: wrap;
     justify-content: center;
-    gap: 0.75rem 0.5rem;
-    margin-bottom: 16px;
+    gap: 0.5rem;
+    margin: 16px 0 8px;
   }
 
   .patreon-bubble {
     margin-left: 0;
+  }
+
+  /* tails on top, angled in towards the image above */
+  .profile-bubble::before,
+  .patreon-bubble::before {
+    top: -9px;
+    bottom: auto;
+    width: 18px;
+    height: 18px;
+    border-radius: 0;
+    transform: none;
+  }
+
+  .discord-bubble::before {
+    left: auto;
+    right: 14px;
+    clip-path: polygon(100% 0, 0 100%, 100% 100%);
+  }
+
+  .patreon-bubble::before {
+    left: 14px;
+    clip-path: polygon(0 0, 0 100%, 100% 100%);
   }
 
   .profile-bubble {
@@ -510,6 +542,20 @@ iframe {
   .profile-bubble svg {
     width: 16px;
     height: 16px;
+  }
+}
+
+/* keep both bubbles on one row so each tail can still point up at the image */
+@media only screen and (max-width: 400px) {
+  .profile-bubble {
+    gap: 0.35rem;
+    padding: 0.4rem 0.6rem;
+    font-size: 0.7rem;
+  }
+
+  .profile-bubble svg {
+    width: 14px;
+    height: 14px;
   }
 }
 
