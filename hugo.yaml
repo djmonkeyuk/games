@@ -68,6 +68,7 @@ params:
     imageHeight: 200
     imageTitle: It's me!
     discordBubble: "Join my Discord!"
+    patreonBubble: "Support me on Patreon!"
     buttonsHeading: "Current Projects"
     buttons:
       - name: "Neon Pulse"

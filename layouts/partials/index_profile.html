@@ -30,14 +30,27 @@
         <img draggable="false" src="{{ .imageUrl | absURL }}" alt="{{ .imageTitle | default "profile image" }}" title="{{ .imageTitle }}"
             height="{{ .imageHeight | default 150 }}" width="{{ .imageWidth | default 150 }}" />
         {{- end }}
+        {{- if or .discordBubble .patreonBubble }}
+        <div class="profile-bubbles">
         {{- with .discordBubble }}
         {{- $text := . }}
         {{- range where site.Params.socialIcons "name" "discord" }}
-        <a class="discord-bubble" href="{{ trim .url " " | safeURL }}" target="_blank" rel="noopener noreferrer">
+        <a class="profile-bubble discord-bubble" href="{{ trim .url " " | safeURL }}" target="_blank" rel="noopener noreferrer">
             {{- partial "svg.html" . }}
             <span>{{ $text }}</span>
         </a>
         {{- end }}
+        {{- end }}
+        {{- with .patreonBubble }}
+        {{- $text := . }}
+        {{- range where site.Params.socialIcons "name" "patreon" }}
+        <a class="profile-bubble patreon-bubble" href="{{ trim .url " " | safeURL }}" target="_blank" rel="noopener noreferrer">
+            {{- partial "svg.html" . }}
+            <span>{{ $text }}</span>
+        </a>
+        {{- end }}
+        {{- end }}
+        </div>
         {{- end }}
         </div>
         {{- end }}

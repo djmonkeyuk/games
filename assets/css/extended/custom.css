@@ -388,35 +388,41 @@ iframe {
   flex-shrink: 0;
 }
 
-/* "Join my Discord" speech bubble next to the profile image */
+/* "Join my Discord" / "Support me on Patreon" speech bubbles next to the profile image */
 .profile-avatar {
   position: relative;
   display: inline-block;
 }
 
-.discord-bubble {
+.profile-bubbles {
   position: absolute;
   top: 6px;
   left: calc(100% - 8px);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 1rem;
+}
+
+.profile-bubble {
+  position: relative;
   display: flex;
   align-items: center;
   gap: 0.5rem;
   padding: 0.6rem 1rem;
   border-radius: 18px;
-  background: #5865f2;
   color: #fff;
   font-size: 0.95rem;
   font-weight: 700;
   white-space: nowrap;
   text-decoration: none;
-  box-shadow: 0 8px 20px rgba(88, 101, 242, 0.35);
   transform-origin: bottom left;
-  animation: discord-bubble-bob 3s ease-in-out infinite;
+  animation: profile-bubble-bob 3s ease-in-out infinite;
   transition: background 0.2s ease;
 }
 
 /* tail pointing back towards the profile image */
-.discord-bubble::before {
+.profile-bubble::before {
   content: "";
   position: absolute;
   left: 10px;
@@ -428,40 +434,65 @@ iframe {
   clip-path: polygon(0 100%, 0 0, 100% 0);
 }
 
-.discord-bubble:hover,
-.discord-bubble:focus-visible {
-  background: #4752c4;
+.profile-bubble:hover,
+.profile-bubble:focus-visible {
   animation-play-state: paused;
 }
 
-.discord-bubble svg {
+.profile-bubble svg {
   width: 20px;
   height: 20px;
   flex-shrink: 0;
 }
 
-@keyframes discord-bubble-bob {
+.discord-bubble {
+  background: #5865f2;
+  box-shadow: 0 8px 20px rgba(88, 101, 242, 0.35);
+}
+
+.discord-bubble:hover,
+.discord-bubble:focus-visible {
+  background: #4752c4;
+}
+
+/* Patreon coral */
+.patreon-bubble {
+  background: #ff424d;
+  box-shadow: 0 8px 20px rgba(255, 66, 77, 0.35);
+  animation-delay: -1.5s;
+}
+
+.patreon-bubble:hover,
+.patreon-bubble:focus-visible {
+  background: #e63640;
+}
+
+@keyframes profile-bubble-bob {
   0%, 100% { transform: translateY(0) rotate(-2deg); }
   50% { transform: translateY(-5px) rotate(-2deg); }
 }
 
 @media (prefers-reduced-motion: reduce) {
-  .discord-bubble {
+  .profile-bubble {
     animation: none;
     transform: rotate(-2deg);
   }
 }
 
 @media only screen and (max-width: 640px) {
-  .discord-bubble {
+  .profile-bubbles {
     top: -10px;
     left: auto;
     right: -70px;
+    gap: 0.75rem;
+  }
+
+  .profile-bubble {
     padding: 0.45rem 0.75rem;
     font-size: 0.8rem;
   }
 
-  .discord-bubble svg {
+  .profile-bubble svg {
     width: 16px;
     height: 16px;
   }
