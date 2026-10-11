@@ -459,6 +459,7 @@ iframe {
 .patreon-bubble {
   background: #ff424d;
   box-shadow: 0 8px 20px rgba(255, 66, 77, 0.35);
+  margin-left: 16px; /* step out so it clears the curve of the profile image */
   animation-delay: -1.5s;
 }
 
@@ -479,12 +480,26 @@ iframe {
   }
 }
 
+/* not enough room beside the image on small screens: sit above it instead */
 @media only screen and (max-width: 640px) {
+  .profile-avatar {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
   .profile-bubbles {
-    top: -10px;
-    left: auto;
-    right: -70px;
-    gap: 0.75rem;
+    position: static;
+    order: -1;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.75rem 0.5rem;
+    margin-bottom: 16px;
+  }
+
+  .patreon-bubble {
+    margin-left: 0;
   }
 
   .profile-bubble {
