@@ -21,6 +21,8 @@ Tales from the Dancing Moon is a mystery adventure game set in a world inspired 
 
 {{< steam >}}
 
+{{< nintendo >}}
+
 {{< epic >}}
 
 ---
